@@ -1,0 +1,1201 @@
+Maintenance_ID,Maintenance_Date,Plant_ID,Equipment_ID,Maintenance_Type,Action_Taken,Downtime_Min,Maintenance_Cost_USD,Technician_Team
+MT-00001,2025-10-25 19:00:00,17,EQ-00438,Cleaning,Transformer cooling checked,173,1946.8,Team A
+MT-00002,2025-02-24 08:15:00,19,EQ-00500,Inspection,Loose connection repaired,148,326.79,Team A
+MT-00003,2025-08-25 16:15:00,10,EQ-00270,Cleaning,Sensor recalibrated,220,1318.96,Team A
+MT-00004,2025-08-08 17:45:00,10,EQ-00259,Component Replacement,Breaker replaced,320,1454.4,Team D
+MT-00005,2025-12-28 17:15:00,7,EQ-00177,Inspection,Sensor recalibrated,197,1730.49,Team A
+MT-00006,2025-06-20 11:00:00,17,EQ-00455,Cleaning,Inverter reset performed,187,1102.63,Team C
+MT-00007,2025-01-29 12:45:00,11,EQ-00271,Corrective Maintenance,Panel cleaning completed,332,2422.01,Team B
+MT-00008,2025-10-24 12:00:00,11,EQ-00287,Inspection,Panel cleaning completed,165,917.74,Team D
+MT-00009,2025-03-07 02:15:00,2,EQ-00054,Component Replacement,Loose connection repaired,62,776.28,Team D
+MT-00010,2025-09-14 18:30:00,7,EQ-00182,Corrective Maintenance,Transformer cooling checked,171,250.05,Team C
+MT-00011,2025-03-01 15:30:00,4,EQ-00084,Preventive Maintenance,Breaker replaced,256,1250.43,Team C
+MT-00012,2025-10-21 09:45:00,13,EQ-00327,Corrective Maintenance,Inverter reset performed,156,340.79,Team D
+MT-00013,2025-10-27 20:45:00,19,EQ-00497,Preventive Maintenance,Firmware updated,55,2339.87,Team B
+MT-00014,2025-02-12 04:00:00,8,EQ-00205,Component Replacement,Transformer cooling checked,156,1083.75,Team B
+MT-00015,2025-11-07 22:00:00,15,EQ-00385,Corrective Maintenance,Cable inspection completed,278,706.98,Team B
+MT-00016,2025-12-12 02:30:00,6,EQ-00137,Corrective Maintenance,Breaker replaced,58,1860.98,Team C
+MT-00017,2025-05-05 01:15:00,14,EQ-00367,Preventive Maintenance,Breaker replaced,117,2335.27,Team A
+MT-00018,2025-11-17 18:30:00,17,EQ-00440,Cleaning,Breaker replaced,228,2012.39,Team D
+MT-00019,2025-09-26 00:30:00,16,EQ-00418,Corrective Maintenance,Transformer cooling checked,315,2263.17,Team D
+MT-00020,2025-04-02 00:15:00,6,EQ-00147,Cleaning,Inverter reset performed,177,813.71,Team C
+MT-00021,2025-08-20 01:15:00,2,EQ-00052,Cleaning,Breaker replaced,126,1029.76,Team A
+MT-00022,2025-11-16 06:00:00,4,EQ-00098,Cleaning,Breaker replaced,66,909.62,Team A
+MT-00023,2025-11-06 00:15:00,10,EQ-00245,Preventive Maintenance,Panel cleaning completed,315,1138.43,Team C
+MT-00024,2025-05-29 16:30:00,15,EQ-00403,Corrective Maintenance,Cable inspection completed,179,1228.21,Team D
+MT-00025,2025-11-30 02:15:00,5,EQ-00117,Preventive Maintenance,Cable inspection completed,315,1191.66,Team A
+MT-00026,2025-08-13 08:30:00,6,EQ-00161,Preventive Maintenance,Firmware updated,312,154.72,Team B
+MT-00027,2025-06-04 20:15:00,11,EQ-00282,Cleaning,Inverter reset performed,235,279.95,Team D
+MT-00028,2025-04-30 10:45:00,11,EQ-00273,Preventive Maintenance,Sensor recalibrated,161,514.79,Team A
+MT-00029,2025-09-27 11:15:00,16,EQ-00411,Component Replacement,Panel cleaning completed,40,2484.54,Team B
+MT-00030,2025-05-20 13:15:00,16,EQ-00425,Inspection,Inverter reset performed,241,534.01,Team C
+MT-00031,2025-06-20 15:45:00,18,EQ-00467,Cleaning,Inverter reset performed,71,993.7,Team A
+MT-00032,2025-05-28 16:15:00,7,EQ-00167,Preventive Maintenance,Inverter reset performed,202,1347.42,Team A
+MT-00033,2025-04-20 02:45:00,11,EQ-00275,Component Replacement,Breaker replaced,293,1304.9,Team B
+MT-00034,2025-01-16 04:15:00,16,EQ-00428,Component Replacement,Inverter reset performed,341,2107.92,Team C
+MT-00035,2025-05-17 02:45:00,11,EQ-00294,Preventive Maintenance,Panel cleaning completed,356,2433.04,Team A
+MT-00036,2025-02-12 00:15:00,16,EQ-00430,Preventive Maintenance,Transformer cooling checked,218,1789.12,Team B
+MT-00037,2025-01-14 08:30:00,10,EQ-00250,Preventive Maintenance,Loose connection repaired,234,1269.21,Team D
+MT-00038,2025-03-28 08:45:00,17,EQ-00449,Preventive Maintenance,Transformer cooling checked,233,2473.76,Team D
+MT-00039,2025-10-17 09:00:00,14,EQ-00352,Component Replacement,Firmware updated,134,302.16,Team C
+MT-00040,2025-03-31 18:45:00,14,EQ-00359,Corrective Maintenance,Loose connection repaired,28,251.68,Team D
+MT-00041,2025-08-27 06:00:00,8,EQ-00209,Cleaning,Sensor recalibrated,260,1220.9,Team A
+MT-00042,2025-12-13 02:45:00,2,EQ-00037,Component Replacement,Breaker replaced,18,1174.14,Team C
+MT-00043,2025-06-10 15:45:00,14,EQ-00370,Cleaning,Loose connection repaired,193,1078.39,Team B
+MT-00044,2025-01-24 23:15:00,16,EQ-00421,Cleaning,Breaker replaced,164,2378.41,Team A
+MT-00045,2025-09-29 22:00:00,2,EQ-00038,Inspection,Transformer cooling checked,16,472.62,Team A
+MT-00046,2025-07-27 04:30:00,16,EQ-00406,Component Replacement,Sensor recalibrated,98,1563.77,Team C
+MT-00047,2025-09-28 17:30:00,20,EQ-00537,Cleaning,Breaker replaced,200,2486.86,Team B
+MT-00048,2025-09-09 23:00:00,3,EQ-00075,Inspection,Panel cleaning completed,296,1401.08,Team B
+MT-00049,2025-12-04 07:15:00,20,EQ-00537,Inspection,Firmware updated,301,821.76,Team A
+MT-00050,2025-02-17 13:00:00,20,EQ-00515,Inspection,Panel cleaning completed,196,745.17,Team D
+MT-00051,2025-11-02 08:15:00,19,EQ-00498,Cleaning,Cable inspection completed,177,2141.45,Team B
+MT-00052,2025-06-12 04:45:00,12,EQ-00301,Preventive Maintenance,Firmware updated,306,846.97,Team C
+MT-00053,2025-11-08 23:30:00,17,EQ-00455,Preventive Maintenance,Breaker replaced,205,2397.7,Team A
+MT-00054,2025-09-21 23:30:00,17,EQ-00451,Inspection,Cable inspection completed,132,1794.1,Team B
+MT-00055,2025-02-11 21:30:00,14,EQ-00376,Component Replacement,Sensor recalibrated,42,1881.19,Team A
+MT-00056,2025-03-18 13:45:00,14,EQ-00373,Cleaning,Panel cleaning completed,50,703.26,Team D
+MT-00057,2025-09-14 20:45:00,1,EQ-00004,Preventive Maintenance,Cable inspection completed,322,2086.55,Team B
+MT-00058,2025-08-20 19:45:00,7,EQ-00177,Cleaning,Transformer cooling checked,284,2180.56,Team A
+MT-00059,2025-12-07 20:00:00,9,EQ-00228,Preventive Maintenance,Firmware updated,113,325.35,Team B
+MT-00060,2025-09-21 17:45:00,5,EQ-00118,Preventive Maintenance,Inverter reset performed,41,1533.72,Team C
+MT-00061,2025-07-08 23:30:00,20,EQ-00525,Corrective Maintenance,Transformer cooling checked,40,1038.28,Team A
+MT-00062,2025-04-20 19:15:00,8,EQ-00200,Preventive Maintenance,Transformer cooling checked,126,1562.35,Team A
+MT-00063,2025-05-12 23:30:00,16,EQ-00409,Cleaning,Firmware updated,64,1459.34,Team A
+MT-00064,2025-02-20 13:00:00,7,EQ-00188,Corrective Maintenance,Firmware updated,157,1356.39,Team B
+MT-00065,2025-09-17 20:30:00,17,EQ-00435,Inspection,Panel cleaning completed,199,578.42,Team B
+MT-00066,2025-04-11 04:00:00,20,EQ-00537,Component Replacement,Sensor recalibrated,335,1144.33,Team C
+MT-00067,2025-04-30 06:45:00,1,EQ-00003,Component Replacement,Firmware updated,244,556.26,Team D
+MT-00068,2025-07-29 13:00:00,2,EQ-00039,Component Replacement,Cable inspection completed,301,1149.75,Team A
+MT-00069,2025-08-15 01:15:00,9,EQ-00224,Inspection,Inverter reset performed,354,2118.97,Team A
+MT-00070,2025-03-18 19:15:00,17,EQ-00446,Cleaning,Firmware updated,351,1250.73,Team C
+MT-00071,2025-09-24 04:00:00,14,EQ-00375,Cleaning,Loose connection repaired,40,1348.05,Team B
+MT-00072,2025-12-08 04:00:00,15,EQ-00382,Cleaning,Loose connection repaired,47,2412.7,Team D
+MT-00073,2025-06-30 04:30:00,15,EQ-00398,Preventive Maintenance,Loose connection repaired,208,1907.49,Team A
+MT-00074,2025-12-21 10:30:00,20,EQ-00517,Cleaning,Breaker replaced,212,183.52,Team A
+MT-00075,2025-04-14 23:00:00,18,EQ-00469,Inspection,Breaker replaced,226,796.54,Team B
+MT-00076,2025-09-07 10:45:00,6,EQ-00136,Cleaning,Breaker replaced,245,122.8,Team D
+MT-00077,2025-10-23 07:15:00,14,EQ-00356,Component Replacement,Firmware updated,99,1987.31,Team A
+MT-00078,2025-10-20 16:15:00,7,EQ-00184,Cleaning,Transformer cooling checked,312,1271.27,Team B
+MT-00079,2025-05-29 00:15:00,11,EQ-00276,Corrective Maintenance,Firmware updated,98,443.41,Team B
+MT-00080,2025-11-20 20:15:00,5,EQ-00129,Cleaning,Cable inspection completed,43,1687.14,Team C
+MT-00081,2025-04-23 13:45:00,2,EQ-00045,Preventive Maintenance,Sensor recalibrated,157,1418.03,Team A
+MT-00082,2025-10-08 20:30:00,5,EQ-00115,Corrective Maintenance,Firmware updated,179,1890.56,Team A
+MT-00083,2025-06-03 15:00:00,13,EQ-00337,Preventive Maintenance,Breaker replaced,321,135.86,Team B
+MT-00084,2025-01-10 04:00:00,5,EQ-00110,Cleaning,Transformer cooling checked,100,2228.88,Team D
+MT-00085,2025-11-07 21:45:00,16,EQ-00425,Cleaning,Firmware updated,219,2321.46,Team C
+MT-00086,2025-03-19 11:45:00,2,EQ-00040,Inspection,Firmware updated,282,1219.44,Team A
+MT-00087,2025-08-27 09:45:00,18,EQ-00480,Cleaning,Firmware updated,269,338.11,Team C
+MT-00088,2025-03-21 04:00:00,5,EQ-00118,Inspection,Cable inspection completed,228,1930.98,Team C
+MT-00089,2025-06-24 21:45:00,5,EQ-00128,Preventive Maintenance,Breaker replaced,185,1790.85,Team B
+MT-00090,2025-06-13 10:30:00,17,EQ-00453,Component Replacement,Breaker replaced,35,312.79,Team B
+MT-00091,2025-03-01 10:45:00,17,EQ-00453,Component Replacement,Transformer cooling checked,256,105.15,Team B
+MT-00092,2025-01-18 13:15:00,2,EQ-00028,Component Replacement,Inverter reset performed,303,2191.54,Team C
+MT-00093,2025-09-17 02:45:00,16,EQ-00408,Cleaning,Cable inspection completed,343,208.92,Team A
+MT-00094,2025-01-13 03:15:00,13,EQ-00334,Component Replacement,Breaker replaced,172,1764.54,Team D
+MT-00095,2025-02-23 10:30:00,18,EQ-00480,Corrective Maintenance,Transformer cooling checked,316,574.55,Team D
+MT-00096,2025-02-06 20:30:00,1,EQ-00002,Preventive Maintenance,Transformer cooling checked,85,802.32,Team C
+MT-00097,2025-07-04 09:00:00,6,EQ-00152,Component Replacement,Inverter reset performed,244,1463.42,Team A
+MT-00098,2025-05-29 04:45:00,2,EQ-00052,Inspection,Transformer cooling checked,256,1188.88,Team A
+MT-00099,2025-08-24 00:30:00,2,EQ-00046,Inspection,Cable inspection completed,138,2137.82,Team B
+MT-00100,2025-09-14 00:15:00,4,EQ-00106,Component Replacement,Sensor recalibrated,62,1131.89,Team C
+MT-00101,2025-10-12 15:30:00,4,EQ-00101,Component Replacement,Loose connection repaired,81,324.94,Team A
+MT-00102,2025-07-05 20:00:00,6,EQ-00147,Cleaning,Breaker replaced,323,1622.27,Team C
+MT-00103,2025-03-28 00:00:00,10,EQ-00249,Preventive Maintenance,Breaker replaced,102,1259.71,Team B
+MT-00104,2025-01-13 01:15:00,6,EQ-00155,Inspection,Transformer cooling checked,125,1757.42,Team B
+MT-00105,2025-09-05 13:30:00,1,EQ-00025,Inspection,Inverter reset performed,356,1326.39,Team D
+MT-00106,2025-09-18 02:00:00,8,EQ-00215,Corrective Maintenance,Cable inspection completed,46,747.39,Team D
+MT-00107,2025-11-28 23:30:00,1,EQ-00008,Inspection,Loose connection repaired,324,1029.46,Team A
+MT-00108,2025-05-11 05:45:00,16,EQ-00420,Component Replacement,Loose connection repaired,105,925.64,Team B
+MT-00109,2025-03-13 21:45:00,4,EQ-00099,Preventive Maintenance,Cable inspection completed,298,740.75,Team A
+MT-00110,2025-02-18 13:45:00,1,EQ-00003,Corrective Maintenance,Sensor recalibrated,149,2057.11,Team D
+MT-00111,2025-05-07 05:45:00,2,EQ-00031,Inspection,Panel cleaning completed,42,1980.95,Team B
+MT-00112,2025-03-16 21:00:00,6,EQ-00144,Cleaning,Inverter reset performed,277,607.44,Team A
+MT-00113,2025-06-30 00:00:00,1,EQ-00002,Corrective Maintenance,Inverter reset performed,328,1841.03,Team A
+MT-00114,2025-02-13 12:00:00,9,EQ-00229,Component Replacement,Cable inspection completed,258,533.82,Team B
+MT-00115,2025-11-17 20:00:00,4,EQ-00093,Preventive Maintenance,Inverter reset performed,44,1198.02,Team A
+MT-00116,2025-07-01 13:30:00,13,EQ-00336,Inspection,Panel cleaning completed,50,196.67,Team C
+MT-00117,2025-12-15 15:00:00,19,EQ-00512,Cleaning,Inverter reset performed,29,157.67,Team D
+MT-00118,2025-04-20 14:30:00,5,EQ-00131,Preventive Maintenance,Breaker replaced,219,2057.34,Team B
+MT-00119,2025-07-03 23:00:00,20,EQ-00523,Corrective Maintenance,Loose connection repaired,352,264.02,Team C
+MT-00120,2025-03-23 01:00:00,13,EQ-00350,Component Replacement,Panel cleaning completed,63,2247.53,Team D
+MT-00121,2025-08-02 07:45:00,19,EQ-00502,Component Replacement,Firmware updated,287,2298.92,Team D
+MT-00122,2025-03-30 11:45:00,20,EQ-00514,Corrective Maintenance,Inverter reset performed,107,481.87,Team B
+MT-00123,2025-03-26 15:00:00,3,EQ-00059,Cleaning,Loose connection repaired,117,900.5,Team A
+MT-00124,2025-04-24 18:45:00,2,EQ-00054,Cleaning,Loose connection repaired,198,617.37,Team C
+MT-00125,2025-04-06 10:15:00,2,EQ-00054,Inspection,Inverter reset performed,300,1275.07,Team A
+MT-00126,2025-03-05 05:30:00,11,EQ-00293,Inspection,Inverter reset performed,254,1368.78,Team D
+MT-00127,2025-10-22 11:45:00,16,EQ-00412,Preventive Maintenance,Cable inspection completed,273,716.89,Team A
+MT-00128,2025-10-12 04:00:00,6,EQ-00143,Corrective Maintenance,Panel cleaning completed,77,2327.57,Team C
+MT-00129,2025-11-03 01:00:00,20,EQ-00523,Preventive Maintenance,Cable inspection completed,35,1096.76,Team A
+MT-00130,2025-12-26 10:15:00,11,EQ-00275,Component Replacement,Breaker replaced,28,1201.98,Team A
+MT-00131,2025-10-06 17:30:00,4,EQ-00108,Cleaning,Sensor recalibrated,305,1977.22,Team D
+MT-00132,2025-12-26 22:30:00,12,EQ-00313,Component Replacement,Firmware updated,117,1065.48,Team A
+MT-00133,2025-10-29 16:15:00,7,EQ-00177,Cleaning,Loose connection repaired,129,2231.89,Team D
+MT-00134,2025-06-10 19:15:00,3,EQ-00075,Cleaning,Inverter reset performed,40,836.9,Team B
+MT-00135,2025-04-12 20:15:00,5,EQ-00114,Corrective Maintenance,Cable inspection completed,273,2291.25,Team B
+MT-00136,2025-10-07 22:15:00,15,EQ-00380,Inspection,Sensor recalibrated,276,1289.66,Team D
+MT-00137,2025-01-22 11:30:00,14,EQ-00353,Preventive Maintenance,Transformer cooling checked,246,291.01,Team B
+MT-00138,2025-02-01 07:15:00,4,EQ-00095,Cleaning,Inverter reset performed,283,1509.38,Team D
+MT-00139,2025-01-14 23:15:00,1,EQ-00009,Corrective Maintenance,Cable inspection completed,175,1927.07,Team C
+MT-00140,2025-02-12 09:00:00,14,EQ-00356,Corrective Maintenance,Loose connection repaired,252,872.65,Team C
+MT-00141,2025-09-09 12:45:00,13,EQ-00344,Corrective Maintenance,Loose connection repaired,28,1889.86,Team C
+MT-00142,2025-07-03 09:00:00,18,EQ-00485,Corrective Maintenance,Transformer cooling checked,346,2068.94,Team D
+MT-00143,2025-05-22 16:30:00,14,EQ-00373,Component Replacement,Inverter reset performed,288,1316.31,Team B
+MT-00144,2025-05-06 02:00:00,14,EQ-00361,Corrective Maintenance,Breaker replaced,63,1867.76,Team C
+MT-00145,2025-06-21 19:30:00,15,EQ-00394,Preventive Maintenance,Panel cleaning completed,247,2190.89,Team A
+MT-00146,2025-10-20 12:30:00,4,EQ-00099,Inspection,Breaker replaced,138,396.16,Team A
+MT-00147,2025-01-05 21:00:00,19,EQ-00489,Preventive Maintenance,Firmware updated,266,2425.93,Team D
+MT-00148,2025-10-25 07:00:00,16,EQ-00419,Cleaning,Breaker replaced,164,2457.39,Team A
+MT-00149,2025-03-28 18:15:00,2,EQ-00050,Corrective Maintenance,Firmware updated,286,2464.53,Team A
+MT-00150,2025-07-24 15:30:00,7,EQ-00189,Component Replacement,Firmware updated,359,2067.55,Team A
+MT-00151,2025-09-24 17:45:00,8,EQ-00201,Cleaning,Inverter reset performed,274,1379.34,Team C
+MT-00152,2025-05-26 10:45:00,17,EQ-00440,Component Replacement,Transformer cooling checked,52,2100.96,Team A
+MT-00153,2025-05-01 03:15:00,7,EQ-00164,Component Replacement,Sensor recalibrated,218,136.73,Team B
+MT-00154,2025-06-09 07:30:00,6,EQ-00152,Preventive Maintenance,Transformer cooling checked,283,302.29,Team D
+MT-00155,2025-10-07 00:00:00,15,EQ-00401,Inspection,Panel cleaning completed,337,1085.97,Team B
+MT-00156,2025-10-15 16:00:00,13,EQ-00339,Preventive Maintenance,Sensor recalibrated,102,753.66,Team A
+MT-00157,2025-05-01 06:30:00,13,EQ-00330,Preventive Maintenance,Breaker replaced,54,1592.23,Team D
+MT-00158,2025-09-13 09:00:00,3,EQ-00074,Cleaning,Loose connection repaired,300,1429.06,Team B
+MT-00159,2025-08-02 09:00:00,14,EQ-00364,Component Replacement,Breaker replaced,346,229.46,Team D
+MT-00160,2025-09-11 03:00:00,7,EQ-00187,Component Replacement,Sensor recalibrated,350,2012.34,Team B
+MT-00161,2025-02-21 12:00:00,19,EQ-00487,Cleaning,Sensor recalibrated,211,1398.56,Team D
+MT-00162,2025-04-01 13:15:00,4,EQ-00089,Cleaning,Loose connection repaired,292,425.08,Team C
+MT-00163,2025-04-30 13:30:00,18,EQ-00461,Corrective Maintenance,Sensor recalibrated,283,2106.52,Team A
+MT-00164,2025-03-08 22:45:00,14,EQ-00363,Corrective Maintenance,Transformer cooling checked,287,1758.69,Team A
+MT-00165,2025-02-06 10:30:00,17,EQ-00435,Preventive Maintenance,Transformer cooling checked,208,1619.16,Team B
+MT-00166,2025-12-28 07:45:00,3,EQ-00073,Corrective Maintenance,Sensor recalibrated,143,1707.27,Team B
+MT-00167,2025-03-13 20:30:00,14,EQ-00371,Corrective Maintenance,Sensor recalibrated,330,643.3,Team B
+MT-00168,2025-06-02 19:30:00,2,EQ-00039,Component Replacement,Firmware updated,254,1798.96,Team C
+MT-00169,2025-10-23 20:15:00,13,EQ-00350,Component Replacement,Firmware updated,355,2015.81,Team A
+MT-00170,2025-03-12 13:45:00,1,EQ-00027,Component Replacement,Panel cleaning completed,77,128.85,Team B
+MT-00171,2025-08-09 18:15:00,11,EQ-00272,Cleaning,Loose connection repaired,105,1957.51,Team C
+MT-00172,2025-11-07 11:00:00,14,EQ-00364,Cleaning,Panel cleaning completed,314,2304.5,Team A
+MT-00173,2025-08-04 23:00:00,8,EQ-00211,Component Replacement,Panel cleaning completed,124,563.98,Team D
+MT-00174,2025-01-03 03:00:00,11,EQ-00273,Preventive Maintenance,Loose connection repaired,324,2452.16,Team D
+MT-00175,2025-01-10 10:00:00,7,EQ-00174,Cleaning,Inverter reset performed,81,324.48,Team A
+MT-00176,2025-11-25 17:15:00,14,EQ-00378,Component Replacement,Loose connection repaired,235,2066.98,Team C
+MT-00177,2025-07-30 12:15:00,14,EQ-00352,Corrective Maintenance,Loose connection repaired,139,288.0,Team A
+MT-00178,2025-11-14 20:30:00,2,EQ-00050,Inspection,Firmware updated,75,522.86,Team C
+MT-00179,2025-11-16 23:30:00,3,EQ-00074,Preventive Maintenance,Transformer cooling checked,277,1339.52,Team B
+MT-00180,2025-05-01 12:30:00,15,EQ-00380,Cleaning,Firmware updated,231,216.63,Team A
+MT-00181,2025-01-19 19:45:00,19,EQ-00493,Cleaning,Cable inspection completed,223,65.73,Team A
+MT-00182,2025-02-10 05:15:00,1,EQ-00001,Preventive Maintenance,Firmware updated,59,772.22,Team C
+MT-00183,2025-08-24 13:30:00,5,EQ-00119,Component Replacement,Firmware updated,256,486.45,Team B
+MT-00184,2025-05-05 18:00:00,3,EQ-00057,Component Replacement,Loose connection repaired,228,1652.97,Team D
+MT-00185,2025-02-21 02:00:00,6,EQ-00158,Corrective Maintenance,Cable inspection completed,273,1407.49,Team A
+MT-00186,2025-10-03 11:45:00,11,EQ-00275,Inspection,Sensor recalibrated,293,148.95,Team B
+MT-00187,2025-02-21 01:00:00,6,EQ-00155,Inspection,Inverter reset performed,193,1013.09,Team C
+MT-00188,2025-06-14 19:45:00,17,EQ-00437,Inspection,Sensor recalibrated,300,1694.14,Team B
+MT-00189,2025-01-18 14:15:00,20,EQ-00536,Component Replacement,Transformer cooling checked,311,1388.63,Team B
+MT-00190,2025-01-20 00:00:00,20,EQ-00535,Cleaning,Transformer cooling checked,263,734.91,Team A
+MT-00191,2025-08-19 07:30:00,11,EQ-00295,Component Replacement,Inverter reset performed,308,2066.8,Team B
+MT-00192,2025-07-02 16:30:00,7,EQ-00172,Inspection,Panel cleaning completed,259,1890.28,Team A
+MT-00193,2025-04-24 02:45:00,12,EQ-00320,Preventive Maintenance,Sensor recalibrated,281,2147.78,Team C
+MT-00194,2025-06-15 17:15:00,18,EQ-00469,Cleaning,Sensor recalibrated,135,166.92,Team C
+MT-00195,2025-08-27 19:30:00,14,EQ-00358,Preventive Maintenance,Transformer cooling checked,204,1966.16,Team C
+MT-00196,2025-06-11 06:15:00,12,EQ-00312,Cleaning,Inverter reset performed,279,1710.04,Team C
+MT-00197,2025-01-21 22:45:00,17,EQ-00441,Inspection,Firmware updated,119,2386.2,Team A
+MT-00198,2025-11-25 12:15:00,12,EQ-00311,Preventive Maintenance,Panel cleaning completed,94,1508.37,Team D
+MT-00199,2025-11-06 07:15:00,19,EQ-00497,Component Replacement,Transformer cooling checked,210,1917.74,Team B
+MT-00200,2025-04-23 03:00:00,19,EQ-00503,Cleaning,Firmware updated,230,2091.11,Team D
+MT-00201,2025-10-14 14:30:00,20,EQ-00539,Cleaning,Transformer cooling checked,227,1111.06,Team D
+MT-00202,2025-09-30 09:30:00,3,EQ-00056,Corrective Maintenance,Sensor recalibrated,93,1907.83,Team A
+MT-00203,2025-12-29 12:30:00,9,EQ-00235,Preventive Maintenance,Sensor recalibrated,200,355.4,Team A
+MT-00204,2025-06-17 12:15:00,4,EQ-00089,Corrective Maintenance,Inverter reset performed,47,404.33,Team D
+MT-00205,2025-10-27 23:30:00,10,EQ-00269,Cleaning,Cable inspection completed,148,787.45,Team A
+MT-00206,2025-05-05 08:30:00,12,EQ-00310,Inspection,Cable inspection completed,196,2048.53,Team C
+MT-00207,2025-07-10 02:30:00,10,EQ-00245,Inspection,Cable inspection completed,200,1771.6,Team C
+MT-00208,2025-08-04 04:00:00,13,EQ-00349,Cleaning,Sensor recalibrated,145,1418.49,Team D
+MT-00209,2025-08-20 07:15:00,9,EQ-00239,Component Replacement,Transformer cooling checked,323,606.6,Team B
+MT-00210,2025-12-27 15:00:00,6,EQ-00144,Preventive Maintenance,Cable inspection completed,217,292.22,Team C
+MT-00211,2025-09-22 02:30:00,6,EQ-00159,Component Replacement,Breaker replaced,236,2426.09,Team D
+MT-00212,2025-11-21 11:45:00,7,EQ-00171,Cleaning,Transformer cooling checked,27,528.29,Team D
+MT-00213,2025-05-28 16:30:00,19,EQ-00511,Preventive Maintenance,Firmware updated,21,2455.73,Team B
+MT-00214,2025-01-19 11:00:00,3,EQ-00071,Corrective Maintenance,Transformer cooling checked,88,505.52,Team B
+MT-00215,2025-06-01 08:00:00,18,EQ-00473,Component Replacement,Panel cleaning completed,251,2050.29,Team A
+MT-00216,2025-08-29 18:30:00,3,EQ-00069,Component Replacement,Cable inspection completed,278,111.58,Team B
+MT-00217,2025-09-23 15:30:00,19,EQ-00497,Corrective Maintenance,Breaker replaced,266,2031.55,Team C
+MT-00218,2025-05-25 03:30:00,19,EQ-00487,Component Replacement,Breaker replaced,64,534.25,Team A
+MT-00219,2025-02-13 15:00:00,6,EQ-00139,Inspection,Transformer cooling checked,107,1879.52,Team D
+MT-00220,2025-05-19 07:15:00,3,EQ-00066,Cleaning,Breaker replaced,202,129.41,Team D
+MT-00221,2025-01-05 10:30:00,19,EQ-00498,Corrective Maintenance,Cable inspection completed,73,170.09,Team B
+MT-00222,2025-09-24 17:45:00,7,EQ-00165,Corrective Maintenance,Sensor recalibrated,325,584.05,Team C
+MT-00223,2025-12-22 23:15:00,18,EQ-00476,Component Replacement,Sensor recalibrated,239,1271.78,Team D
+MT-00224,2025-07-07 17:30:00,14,EQ-00355,Preventive Maintenance,Transformer cooling checked,69,345.67,Team C
+MT-00225,2025-03-08 09:30:00,5,EQ-00114,Corrective Maintenance,Panel cleaning completed,335,1526.22,Team D
+MT-00226,2025-01-02 16:00:00,10,EQ-00259,Component Replacement,Transformer cooling checked,215,2045.21,Team A
+MT-00227,2025-05-22 12:00:00,5,EQ-00133,Cleaning,Panel cleaning completed,60,2179.3,Team C
+MT-00228,2025-05-08 17:45:00,3,EQ-00081,Cleaning,Breaker replaced,330,2368.84,Team A
+MT-00229,2025-12-26 15:30:00,18,EQ-00476,Component Replacement,Inverter reset performed,36,1774.27,Team B
+MT-00230,2025-03-25 16:30:00,16,EQ-00432,Preventive Maintenance,Cable inspection completed,310,983.71,Team A
+MT-00231,2025-03-05 09:00:00,16,EQ-00429,Inspection,Panel cleaning completed,131,1064.83,Team B
+MT-00232,2025-10-01 10:45:00,20,EQ-00526,Preventive Maintenance,Sensor recalibrated,352,2358.03,Team C
+MT-00233,2025-09-08 13:15:00,14,EQ-00362,Cleaning,Panel cleaning completed,137,697.71,Team D
+MT-00234,2025-08-25 02:30:00,16,EQ-00426,Component Replacement,Cable inspection completed,96,110.31,Team D
+MT-00235,2025-04-22 04:00:00,3,EQ-00068,Corrective Maintenance,Breaker replaced,226,248.59,Team A
+MT-00236,2025-05-13 14:00:00,6,EQ-00151,Inspection,Firmware updated,274,2350.46,Team D
+MT-00237,2025-01-27 04:00:00,9,EQ-00221,Cleaning,Breaker replaced,231,601.06,Team B
+MT-00238,2025-03-03 20:00:00,20,EQ-00524,Preventive Maintenance,Cable inspection completed,306,1839.8,Team C
+MT-00239,2025-02-22 02:15:00,3,EQ-00066,Preventive Maintenance,Inverter reset performed,28,633.44,Team D
+MT-00240,2025-07-03 04:15:00,7,EQ-00167,Corrective Maintenance,Loose connection repaired,96,2319.07,Team C
+MT-00241,2025-12-22 05:15:00,14,EQ-00360,Preventive Maintenance,Inverter reset performed,254,923.56,Team A
+MT-00242,2025-09-27 13:30:00,4,EQ-00087,Corrective Maintenance,Firmware updated,89,2145.42,Team A
+MT-00243,2025-03-03 07:15:00,12,EQ-00317,Corrective Maintenance,Loose connection repaired,163,1331.87,Team A
+MT-00244,2025-11-14 21:45:00,13,EQ-00330,Corrective Maintenance,Sensor recalibrated,44,1734.41,Team D
+MT-00245,2025-10-19 21:45:00,3,EQ-00060,Cleaning,Firmware updated,128,2041.7,Team A
+MT-00246,2025-04-20 21:00:00,2,EQ-00042,Corrective Maintenance,Transformer cooling checked,60,749.41,Team A
+MT-00247,2025-07-15 05:15:00,5,EQ-00114,Cleaning,Panel cleaning completed,88,1872.54,Team A
+MT-00248,2025-08-25 09:15:00,20,EQ-00514,Inspection,Transformer cooling checked,121,1669.77,Team D
+MT-00249,2025-11-05 06:00:00,10,EQ-00254,Inspection,Loose connection repaired,336,1770.62,Team C
+MT-00250,2025-03-03 23:45:00,15,EQ-00387,Corrective Maintenance,Inverter reset performed,219,2144.67,Team D
+MT-00251,2025-10-27 11:00:00,5,EQ-00134,Cleaning,Firmware updated,176,402.4,Team A
+MT-00252,2025-05-17 04:30:00,3,EQ-00075,Cleaning,Breaker replaced,46,1326.44,Team C
+MT-00253,2025-09-08 16:15:00,6,EQ-00151,Cleaning,Cable inspection completed,201,643.57,Team B
+MT-00254,2025-12-19 02:15:00,6,EQ-00159,Component Replacement,Breaker replaced,354,805.79,Team D
+MT-00255,2025-05-24 15:45:00,7,EQ-00177,Component Replacement,Firmware updated,28,1715.15,Team C
+MT-00256,2025-03-16 21:00:00,17,EQ-00445,Preventive Maintenance,Panel cleaning completed,75,657.04,Team A
+MT-00257,2025-04-08 20:00:00,1,EQ-00012,Corrective Maintenance,Transformer cooling checked,184,1336.6,Team B
+MT-00258,2025-11-30 07:15:00,13,EQ-00346,Component Replacement,Panel cleaning completed,262,348.31,Team C
+MT-00259,2025-07-26 12:00:00,11,EQ-00272,Inspection,Sensor recalibrated,236,2466.1,Team A
+MT-00260,2025-09-22 22:00:00,8,EQ-00196,Component Replacement,Loose connection repaired,337,496.81,Team A
+MT-00261,2025-01-28 14:15:00,12,EQ-00323,Component Replacement,Panel cleaning completed,118,861.92,Team B
+MT-00262,2025-10-07 16:15:00,17,EQ-00437,Component Replacement,Cable inspection completed,256,1276.54,Team D
+MT-00263,2025-03-17 19:00:00,17,EQ-00433,Inspection,Inverter reset performed,42,932.78,Team C
+MT-00264,2025-07-22 03:30:00,17,EQ-00459,Component Replacement,Inverter reset performed,230,1593.94,Team C
+MT-00265,2025-11-09 08:00:00,20,EQ-00518,Cleaning,Sensor recalibrated,139,2336.51,Team C
+MT-00266,2025-04-14 08:30:00,12,EQ-00306,Inspection,Panel cleaning completed,220,2028.97,Team B
+MT-00267,2025-05-20 00:30:00,17,EQ-00449,Cleaning,Transformer cooling checked,60,1511.42,Team B
+MT-00268,2025-02-16 23:00:00,19,EQ-00508,Cleaning,Inverter reset performed,176,469.53,Team B
+MT-00269,2025-10-31 13:15:00,3,EQ-00066,Component Replacement,Transformer cooling checked,136,1463.34,Team B
+MT-00270,2025-06-20 07:30:00,1,EQ-00024,Corrective Maintenance,Transformer cooling checked,37,2047.84,Team D
+MT-00271,2025-03-18 10:30:00,7,EQ-00189,Preventive Maintenance,Inverter reset performed,36,824.08,Team C
+MT-00272,2025-02-15 14:15:00,18,EQ-00475,Cleaning,Firmware updated,96,382.35,Team B
+MT-00273,2025-10-08 17:00:00,7,EQ-00182,Inspection,Panel cleaning completed,245,1011.07,Team D
+MT-00274,2025-01-31 07:00:00,3,EQ-00055,Inspection,Sensor recalibrated,269,2306.82,Team D
+MT-00275,2025-05-29 15:00:00,12,EQ-00300,Cleaning,Sensor recalibrated,350,1891.35,Team A
+MT-00276,2025-12-12 12:00:00,9,EQ-00236,Cleaning,Transformer cooling checked,183,784.07,Team A
+MT-00277,2025-06-04 20:45:00,1,EQ-00018,Preventive Maintenance,Loose connection repaired,60,1595.67,Team D
+MT-00278,2025-05-10 09:15:00,10,EQ-00264,Cleaning,Firmware updated,218,1918.44,Team D
+MT-00279,2025-04-25 19:15:00,5,EQ-00125,Component Replacement,Firmware updated,174,1930.74,Team A
+MT-00280,2025-11-05 00:30:00,4,EQ-00098,Inspection,Loose connection repaired,319,229.23,Team C
+MT-00281,2025-10-08 13:30:00,10,EQ-00249,Cleaning,Sensor recalibrated,142,2348.96,Team C
+MT-00282,2025-03-23 05:30:00,17,EQ-00447,Inspection,Firmware updated,342,847.96,Team B
+MT-00283,2025-07-07 05:30:00,15,EQ-00399,Corrective Maintenance,Sensor recalibrated,220,1190.39,Team B
+MT-00284,2025-06-04 03:00:00,3,EQ-00071,Corrective Maintenance,Transformer cooling checked,279,1903.78,Team B
+MT-00285,2025-07-07 10:45:00,16,EQ-00430,Preventive Maintenance,Panel cleaning completed,111,440.94,Team B
+MT-00286,2025-02-05 01:45:00,18,EQ-00471,Corrective Maintenance,Inverter reset performed,137,1751.58,Team B
+MT-00287,2025-08-23 12:15:00,20,EQ-00529,Cleaning,Loose connection repaired,108,1785.3,Team B
+MT-00288,2025-10-04 19:15:00,11,EQ-00272,Corrective Maintenance,Sensor recalibrated,134,2121.76,Team B
+MT-00289,2025-11-03 21:15:00,14,EQ-00353,Cleaning,Inverter reset performed,124,367.96,Team A
+MT-00290,2025-07-07 13:00:00,6,EQ-00142,Preventive Maintenance,Loose connection repaired,41,1870.72,Team C
+MT-00291,2025-10-29 21:45:00,19,EQ-00502,Corrective Maintenance,Inverter reset performed,272,2334.11,Team A
+MT-00292,2025-05-03 12:45:00,10,EQ-00244,Inspection,Loose connection repaired,126,2129.11,Team C
+MT-00293,2025-10-30 22:45:00,9,EQ-00228,Component Replacement,Firmware updated,206,53.12,Team D
+MT-00294,2025-02-25 06:00:00,16,EQ-00427,Corrective Maintenance,Breaker replaced,174,1958.9,Team C
+MT-00295,2025-07-27 01:15:00,15,EQ-00380,Cleaning,Cable inspection completed,202,1480.77,Team C
+MT-00296,2025-08-11 15:15:00,12,EQ-00315,Corrective Maintenance,Breaker replaced,44,1091.16,Team C
+MT-00297,2025-03-20 21:15:00,19,EQ-00509,Preventive Maintenance,Panel cleaning completed,60,1377.75,Team D
+MT-00298,2025-03-11 07:00:00,7,EQ-00182,Cleaning,Firmware updated,280,2363.08,Team B
+MT-00299,2025-05-11 15:00:00,1,EQ-00013,Cleaning,Panel cleaning completed,167,787.51,Team B
+MT-00300,2025-10-31 19:00:00,17,EQ-00456,Component Replacement,Inverter reset performed,208,2370.54,Team D
+MT-00301,2025-01-28 05:45:00,14,EQ-00354,Preventive Maintenance,Panel cleaning completed,154,1662.14,Team B
+MT-00302,2025-09-29 08:00:00,4,EQ-00089,Corrective Maintenance,Breaker replaced,214,585.16,Team D
+MT-00303,2025-12-11 11:45:00,10,EQ-00246,Component Replacement,Transformer cooling checked,121,826.9,Team D
+MT-00304,2025-06-30 10:15:00,7,EQ-00181,Inspection,Firmware updated,255,1046.44,Team D
+MT-00305,2025-11-22 04:45:00,8,EQ-00214,Inspection,Sensor recalibrated,144,1505.8,Team D
+MT-00306,2025-04-15 08:15:00,13,EQ-00345,Inspection,Panel cleaning completed,322,1760.86,Team D
+MT-00307,2025-10-12 00:15:00,8,EQ-00205,Component Replacement,Cable inspection completed,117,253.54,Team C
+MT-00308,2025-10-09 17:30:00,7,EQ-00183,Corrective Maintenance,Sensor recalibrated,125,713.53,Team C
+MT-00309,2025-05-27 15:30:00,5,EQ-00133,Preventive Maintenance,Sensor recalibrated,334,395.57,Team B
+MT-00310,2025-12-10 21:00:00,10,EQ-00257,Cleaning,Sensor recalibrated,82,668.24,Team A
+MT-00311,2025-03-22 14:30:00,17,EQ-00453,Preventive Maintenance,Inverter reset performed,264,1219.18,Team D
+MT-00312,2025-03-16 15:30:00,12,EQ-00323,Cleaning,Loose connection repaired,85,1464.4,Team D
+MT-00313,2025-01-28 06:30:00,20,EQ-00535,Cleaning,Cable inspection completed,98,506.44,Team A
+MT-00314,2025-05-02 16:45:00,7,EQ-00164,Corrective Maintenance,Loose connection repaired,59,2386.74,Team D
+MT-00315,2025-09-25 03:15:00,6,EQ-00137,Component Replacement,Loose connection repaired,316,833.58,Team C
+MT-00316,2025-01-26 08:00:00,12,EQ-00299,Corrective Maintenance,Breaker replaced,266,699.12,Team C
+MT-00317,2025-06-20 01:15:00,3,EQ-00064,Preventive Maintenance,Loose connection repaired,312,1211.41,Team A
+MT-00318,2025-07-03 06:15:00,12,EQ-00323,Corrective Maintenance,Inverter reset performed,311,1391.5,Team A
+MT-00319,2025-06-22 23:30:00,7,EQ-00188,Inspection,Firmware updated,330,2437.36,Team D
+MT-00320,2025-01-15 19:45:00,14,EQ-00372,Cleaning,Cable inspection completed,99,1826.69,Team C
+MT-00321,2025-11-28 22:45:00,6,EQ-00143,Preventive Maintenance,Inverter reset performed,170,1837.71,Team A
+MT-00322,2025-04-02 10:45:00,16,EQ-00421,Corrective Maintenance,Transformer cooling checked,19,1135.94,Team A
+MT-00323,2025-08-24 07:30:00,10,EQ-00250,Cleaning,Transformer cooling checked,58,2315.99,Team A
+MT-00324,2025-09-10 04:45:00,5,EQ-00116,Inspection,Loose connection repaired,85,1826.85,Team D
+MT-00325,2025-10-02 03:00:00,6,EQ-00156,Preventive Maintenance,Breaker replaced,19,1689.98,Team C
+MT-00326,2025-08-17 20:15:00,8,EQ-00196,Cleaning,Inverter reset performed,322,2038.0,Team C
+MT-00327,2025-09-05 05:30:00,12,EQ-00305,Cleaning,Panel cleaning completed,259,356.84,Team A
+MT-00328,2025-05-21 15:45:00,3,EQ-00078,Inspection,Cable inspection completed,341,1365.45,Team B
+MT-00329,2025-02-10 01:30:00,20,EQ-00518,Preventive Maintenance,Inverter reset performed,259,2301.55,Team B
+MT-00330,2025-03-06 14:00:00,16,EQ-00432,Preventive Maintenance,Loose connection repaired,94,69.52,Team A
+MT-00331,2025-04-11 20:30:00,7,EQ-00185,Cleaning,Sensor recalibrated,240,2048.22,Team A
+MT-00332,2025-09-05 15:45:00,19,EQ-00502,Cleaning,Sensor recalibrated,182,650.13,Team B
+MT-00333,2025-12-16 21:15:00,3,EQ-00062,Component Replacement,Firmware updated,211,1328.99,Team C
+MT-00334,2025-11-21 20:45:00,7,EQ-00186,Cleaning,Transformer cooling checked,186,2012.53,Team C
+MT-00335,2025-10-14 08:00:00,3,EQ-00055,Preventive Maintenance,Firmware updated,353,1422.75,Team D
+MT-00336,2025-10-24 17:15:00,9,EQ-00219,Component Replacement,Sensor recalibrated,250,1005.28,Team B
+MT-00337,2025-04-02 04:00:00,9,EQ-00219,Corrective Maintenance,Firmware updated,68,1957.43,Team C
+MT-00338,2025-08-16 11:45:00,3,EQ-00070,Cleaning,Inverter reset performed,229,923.42,Team C
+MT-00339,2025-10-20 23:00:00,6,EQ-00138,Component Replacement,Inverter reset performed,201,224.82,Team B
+MT-00340,2025-01-01 23:30:00,14,EQ-00355,Component Replacement,Loose connection repaired,165,1234.06,Team C
+MT-00341,2025-11-23 13:00:00,10,EQ-00252,Corrective Maintenance,Inverter reset performed,320,1703.91,Team A
+MT-00342,2025-08-11 09:15:00,4,EQ-00103,Cleaning,Loose connection repaired,239,1960.53,Team D
+MT-00343,2025-12-10 01:15:00,14,EQ-00354,Cleaning,Firmware updated,174,450.24,Team A
+MT-00344,2025-04-19 16:30:00,2,EQ-00049,Component Replacement,Inverter reset performed,116,2218.47,Team C
+MT-00345,2025-11-16 00:00:00,15,EQ-00379,Cleaning,Transformer cooling checked,293,2169.66,Team C
+MT-00346,2025-09-11 04:45:00,15,EQ-00398,Inspection,Cable inspection completed,151,1338.35,Team D
+MT-00347,2025-11-29 00:00:00,4,EQ-00084,Corrective Maintenance,Inverter reset performed,42,1930.03,Team D
+MT-00348,2025-10-20 18:00:00,19,EQ-00504,Component Replacement,Panel cleaning completed,204,1975.06,Team D
+MT-00349,2025-02-04 04:30:00,15,EQ-00393,Cleaning,Loose connection repaired,94,1825.59,Team B
+MT-00350,2025-12-05 23:30:00,14,EQ-00377,Cleaning,Inverter reset performed,225,950.28,Team C
+MT-00351,2025-02-24 23:00:00,6,EQ-00142,Corrective Maintenance,Sensor recalibrated,358,420.5,Team B
+MT-00352,2025-11-05 03:30:00,9,EQ-00234,Corrective Maintenance,Firmware updated,316,1316.1,Team A
+MT-00353,2025-08-18 17:30:00,15,EQ-00398,Component Replacement,Panel cleaning completed,274,2484.96,Team C
+MT-00354,2025-10-28 00:00:00,5,EQ-00113,Cleaning,Breaker replaced,302,1173.86,Team A
+MT-00355,2025-05-20 02:00:00,7,EQ-00181,Preventive Maintenance,Transformer cooling checked,73,602.23,Team B
+MT-00356,2025-03-23 12:00:00,9,EQ-00219,Cleaning,Cable inspection completed,288,150.41,Team A
+MT-00357,2025-09-20 20:15:00,5,EQ-00125,Corrective Maintenance,Panel cleaning completed,202,2274.13,Team D
+MT-00358,2025-09-18 05:15:00,3,EQ-00063,Cleaning,Loose connection repaired,50,2126.77,Team D
+MT-00359,2025-04-07 18:15:00,9,EQ-00231,Inspection,Inverter reset performed,301,303.07,Team B
+MT-00360,2025-08-24 00:45:00,16,EQ-00431,Component Replacement,Cable inspection completed,331,1968.05,Team A
+MT-00361,2025-12-07 23:45:00,4,EQ-00102,Component Replacement,Loose connection repaired,352,211.33,Team B
+MT-00362,2025-02-26 02:30:00,5,EQ-00121,Cleaning,Cable inspection completed,325,1915.93,Team A
+MT-00363,2025-11-14 05:15:00,8,EQ-00198,Cleaning,Breaker replaced,301,1494.8,Team B
+MT-00364,2025-04-19 11:00:00,20,EQ-00530,Preventive Maintenance,Transformer cooling checked,137,1438.42,Team A
+MT-00365,2025-05-29 03:00:00,14,EQ-00354,Preventive Maintenance,Cable inspection completed,160,620.33,Team C
+MT-00366,2025-10-21 12:45:00,19,EQ-00495,Inspection,Panel cleaning completed,242,350.83,Team D
+MT-00367,2025-12-04 01:30:00,13,EQ-00348,Cleaning,Panel cleaning completed,21,1537.18,Team B
+MT-00368,2025-08-09 17:00:00,1,EQ-00006,Cleaning,Cable inspection completed,288,374.14,Team A
+MT-00369,2025-04-07 01:00:00,11,EQ-00290,Corrective Maintenance,Sensor recalibrated,93,821.86,Team A
+MT-00370,2025-02-07 01:00:00,13,EQ-00343,Cleaning,Panel cleaning completed,176,1283.54,Team A
+MT-00371,2025-10-21 10:30:00,5,EQ-00129,Component Replacement,Sensor recalibrated,212,1633.42,Team A
+MT-00372,2025-04-17 04:00:00,12,EQ-00312,Inspection,Firmware updated,18,2324.5,Team D
+MT-00373,2025-04-12 05:30:00,12,EQ-00320,Corrective Maintenance,Sensor recalibrated,167,1876.82,Team B
+MT-00374,2025-06-26 15:45:00,6,EQ-00151,Corrective Maintenance,Inverter reset performed,161,1291.69,Team A
+MT-00375,2025-07-11 01:15:00,3,EQ-00068,Corrective Maintenance,Breaker replaced,311,1483.87,Team C
+MT-00376,2025-09-20 19:15:00,4,EQ-00094,Preventive Maintenance,Firmware updated,205,2142.04,Team A
+MT-00377,2025-09-03 03:45:00,18,EQ-00473,Component Replacement,Inverter reset performed,44,221.19,Team D
+MT-00378,2025-01-24 01:45:00,1,EQ-00009,Component Replacement,Inverter reset performed,52,1568.04,Team B
+MT-00379,2025-05-11 17:15:00,10,EQ-00253,Component Replacement,Inverter reset performed,222,1160.01,Team B
+MT-00380,2025-09-18 16:00:00,20,EQ-00525,Cleaning,Inverter reset performed,241,1678.17,Team A
+MT-00381,2025-12-06 22:45:00,17,EQ-00450,Preventive Maintenance,Sensor recalibrated,22,396.76,Team D
+MT-00382,2025-05-20 13:45:00,18,EQ-00477,Corrective Maintenance,Breaker replaced,104,1347.48,Team C
+MT-00383,2025-11-07 09:15:00,9,EQ-00226,Inspection,Transformer cooling checked,70,477.14,Team C
+MT-00384,2025-06-02 03:45:00,4,EQ-00097,Component Replacement,Panel cleaning completed,260,94.19,Team B
+MT-00385,2025-04-02 01:15:00,16,EQ-00406,Component Replacement,Sensor recalibrated,184,794.65,Team B
+MT-00386,2025-01-30 07:30:00,10,EQ-00250,Corrective Maintenance,Breaker replaced,301,115.4,Team D
+MT-00387,2025-06-08 06:30:00,3,EQ-00057,Preventive Maintenance,Cable inspection completed,48,1797.12,Team D
+MT-00388,2025-05-26 16:15:00,17,EQ-00459,Inspection,Loose connection repaired,281,1558.37,Team C
+MT-00389,2025-04-14 07:15:00,18,EQ-00466,Corrective Maintenance,Firmware updated,222,352.76,Team C
+MT-00390,2025-07-26 15:45:00,9,EQ-00217,Corrective Maintenance,Cable inspection completed,139,2150.87,Team D
+MT-00391,2025-04-24 05:30:00,13,EQ-00337,Component Replacement,Panel cleaning completed,315,1585.33,Team B
+MT-00392,2025-04-16 12:45:00,5,EQ-00123,Inspection,Sensor recalibrated,35,661.15,Team A
+MT-00393,2025-08-20 09:45:00,8,EQ-00205,Component Replacement,Sensor recalibrated,138,2455.14,Team D
+MT-00394,2025-03-15 00:00:00,14,EQ-00368,Cleaning,Cable inspection completed,156,2180.82,Team C
+MT-00395,2025-11-03 03:30:00,12,EQ-00301,Component Replacement,Inverter reset performed,277,838.64,Team D
+MT-00396,2025-05-19 23:45:00,5,EQ-00112,Component Replacement,Firmware updated,167,1220.39,Team B
+MT-00397,2025-09-23 05:15:00,19,EQ-00496,Corrective Maintenance,Inverter reset performed,334,59.08,Team A
+MT-00398,2025-11-28 09:45:00,2,EQ-00052,Inspection,Panel cleaning completed,336,2126.74,Team A
+MT-00399,2025-03-11 19:00:00,13,EQ-00336,Corrective Maintenance,Inverter reset performed,215,109.48,Team B
+MT-00400,2025-11-12 20:30:00,18,EQ-00476,Cleaning,Breaker replaced,180,1759.84,Team C
+MT-00401,2025-03-30 19:15:00,4,EQ-00102,Preventive Maintenance,Firmware updated,212,847.96,Team B
+MT-00402,2025-08-18 03:00:00,3,EQ-00068,Inspection,Transformer cooling checked,324,2198.64,Team A
+MT-00403,2025-02-14 00:45:00,8,EQ-00210,Corrective Maintenance,Sensor recalibrated,66,1684.51,Team D
+MT-00404,2025-03-20 11:15:00,11,EQ-00286,Inspection,Sensor recalibrated,265,999.28,Team C
+MT-00405,2025-05-19 19:45:00,10,EQ-00248,Cleaning,Cable inspection completed,48,1869.39,Team A
+MT-00406,2025-01-21 08:45:00,4,EQ-00107,Cleaning,Cable inspection completed,147,1302.11,Team B
+MT-00407,2025-02-18 06:00:00,19,EQ-00494,Corrective Maintenance,Sensor recalibrated,34,714.33,Team D
+MT-00408,2025-02-06 02:00:00,7,EQ-00183,Cleaning,Transformer cooling checked,246,2378.47,Team C
+MT-00409,2025-03-30 23:45:00,18,EQ-00469,Cleaning,Firmware updated,74,776.24,Team A
+MT-00410,2025-03-22 03:15:00,9,EQ-00219,Corrective Maintenance,Panel cleaning completed,114,1992.77,Team C
+MT-00411,2025-09-05 08:00:00,1,EQ-00016,Inspection,Loose connection repaired,153,421.01,Team D
+MT-00412,2025-10-21 21:45:00,16,EQ-00426,Cleaning,Breaker replaced,27,2349.21,Team A
+MT-00413,2025-12-13 08:15:00,20,EQ-00529,Preventive Maintenance,Inverter reset performed,163,432.4,Team B
+MT-00414,2025-08-01 13:30:00,7,EQ-00169,Cleaning,Firmware updated,92,441.34,Team B
+MT-00415,2025-09-11 20:30:00,13,EQ-00339,Cleaning,Transformer cooling checked,99,459.03,Team B
+MT-00416,2025-12-15 04:45:00,4,EQ-00092,Corrective Maintenance,Sensor recalibrated,39,1964.87,Team D
+MT-00417,2025-09-24 16:00:00,7,EQ-00187,Inspection,Breaker replaced,75,1284.92,Team D
+MT-00418,2025-11-19 00:00:00,2,EQ-00030,Component Replacement,Cable inspection completed,269,545.01,Team D
+MT-00419,2025-07-16 19:45:00,12,EQ-00302,Inspection,Sensor recalibrated,277,230.6,Team C
+MT-00420,2025-12-29 17:15:00,1,EQ-00027,Component Replacement,Loose connection repaired,209,968.97,Team B
+MT-00421,2025-03-08 21:45:00,2,EQ-00050,Component Replacement,Breaker replaced,209,899.8,Team B
+MT-00422,2025-09-18 06:00:00,7,EQ-00165,Cleaning,Loose connection repaired,332,385.34,Team A
+MT-00423,2025-05-02 00:15:00,1,EQ-00019,Inspection,Inverter reset performed,62,597.35,Team C
+MT-00424,2025-10-01 19:15:00,20,EQ-00523,Component Replacement,Panel cleaning completed,177,471.63,Team D
+MT-00425,2025-05-07 05:15:00,4,EQ-00092,Preventive Maintenance,Firmware updated,45,406.03,Team B
+MT-00426,2025-11-25 06:15:00,18,EQ-00470,Inspection,Breaker replaced,63,1872.35,Team A
+MT-00427,2025-12-24 12:30:00,3,EQ-00064,Preventive Maintenance,Sensor recalibrated,78,1838.92,Team C
+MT-00428,2025-08-16 09:30:00,3,EQ-00064,Inspection,Inverter reset performed,277,1848.82,Team C
+MT-00429,2025-01-31 08:15:00,2,EQ-00042,Preventive Maintenance,Panel cleaning completed,294,1773.05,Team A
+MT-00430,2025-11-21 23:30:00,4,EQ-00099,Cleaning,Inverter reset performed,339,1500.87,Team A
+MT-00431,2025-08-23 12:45:00,3,EQ-00075,Preventive Maintenance,Inverter reset performed,118,1353.69,Team C
+MT-00432,2025-10-02 12:30:00,15,EQ-00381,Preventive Maintenance,Sensor recalibrated,219,2080.0,Team B
+MT-00433,2025-02-22 06:15:00,12,EQ-00301,Corrective Maintenance,Breaker replaced,272,1069.21,Team B
+MT-00434,2025-04-03 11:15:00,14,EQ-00354,Component Replacement,Cable inspection completed,39,56.57,Team C
+MT-00435,2025-06-30 12:15:00,10,EQ-00264,Cleaning,Cable inspection completed,278,2243.21,Team A
+MT-00436,2025-07-21 01:30:00,15,EQ-00386,Inspection,Loose connection repaired,258,945.38,Team A
+MT-00437,2025-08-30 18:30:00,5,EQ-00126,Corrective Maintenance,Panel cleaning completed,323,1811.58,Team A
+MT-00438,2025-12-28 00:30:00,13,EQ-00339,Corrective Maintenance,Inverter reset performed,301,2426.88,Team C
+MT-00439,2025-08-12 04:45:00,15,EQ-00397,Component Replacement,Loose connection repaired,190,315.54,Team A
+MT-00440,2025-03-10 11:45:00,20,EQ-00534,Preventive Maintenance,Loose connection repaired,69,1474.44,Team B
+MT-00441,2025-08-08 05:45:00,20,EQ-00524,Cleaning,Sensor recalibrated,42,143.7,Team A
+MT-00442,2025-11-10 12:00:00,12,EQ-00316,Inspection,Loose connection repaired,234,1455.2,Team B
+MT-00443,2025-11-27 19:30:00,7,EQ-00184,Preventive Maintenance,Cable inspection completed,234,770.16,Team B
+MT-00444,2025-02-15 08:00:00,3,EQ-00063,Cleaning,Breaker replaced,59,1409.54,Team B
+MT-00445,2025-11-08 21:45:00,2,EQ-00032,Corrective Maintenance,Cable inspection completed,46,1427.44,Team B
+MT-00446,2025-06-26 07:45:00,17,EQ-00442,Cleaning,Inverter reset performed,158,1097.44,Team C
+MT-00447,2025-02-05 12:00:00,19,EQ-00491,Cleaning,Loose connection repaired,169,1838.14,Team A
+MT-00448,2025-07-28 03:30:00,9,EQ-00238,Inspection,Firmware updated,114,2245.17,Team A
+MT-00449,2025-10-19 07:15:00,18,EQ-00484,Component Replacement,Breaker replaced,77,1332.66,Team B
+MT-00450,2025-11-05 04:15:00,6,EQ-00138,Cleaning,Inverter reset performed,148,1127.63,Team B
+MT-00451,2025-10-13 08:00:00,14,EQ-00353,Component Replacement,Cable inspection completed,89,1726.91,Team B
+MT-00452,2025-07-25 05:45:00,9,EQ-00232,Inspection,Cable inspection completed,219,151.55,Team B
+MT-00453,2025-06-15 08:00:00,15,EQ-00384,Preventive Maintenance,Breaker replaced,253,2384.86,Team D
+MT-00454,2025-11-21 11:00:00,4,EQ-00094,Cleaning,Sensor recalibrated,99,206.28,Team D
+MT-00455,2025-03-18 16:45:00,14,EQ-00357,Cleaning,Transformer cooling checked,335,395.62,Team C
+MT-00456,2025-05-16 07:00:00,15,EQ-00394,Inspection,Firmware updated,192,511.4,Team C
+MT-00457,2025-09-07 12:30:00,16,EQ-00432,Component Replacement,Panel cleaning completed,257,661.64,Team B
+MT-00458,2025-05-11 01:30:00,9,EQ-00237,Component Replacement,Loose connection repaired,215,1596.52,Team B
+MT-00459,2025-09-28 20:15:00,5,EQ-00126,Preventive Maintenance,Breaker replaced,219,1002.64,Team D
+MT-00460,2025-02-20 22:30:00,15,EQ-00385,Cleaning,Breaker replaced,351,1480.55,Team B
+MT-00461,2025-05-12 04:00:00,8,EQ-00198,Inspection,Panel cleaning completed,315,754.69,Team A
+MT-00462,2025-11-29 08:45:00,18,EQ-00483,Corrective Maintenance,Panel cleaning completed,359,912.91,Team C
+MT-00463,2025-11-26 02:45:00,8,EQ-00200,Cleaning,Cable inspection completed,279,2135.37,Team C
+MT-00464,2025-09-11 08:30:00,1,EQ-00012,Corrective Maintenance,Firmware updated,266,1230.94,Team D
+MT-00465,2025-09-18 04:00:00,18,EQ-00478,Inspection,Sensor recalibrated,205,1873.66,Team C
+MT-00466,2025-12-06 22:00:00,3,EQ-00072,Inspection,Breaker replaced,331,1135.71,Team D
+MT-00467,2025-12-20 17:00:00,17,EQ-00435,Corrective Maintenance,Breaker replaced,211,1424.13,Team D
+MT-00468,2025-09-08 01:00:00,6,EQ-00161,Preventive Maintenance,Sensor recalibrated,84,1976.21,Team B
+MT-00469,2025-05-25 21:30:00,7,EQ-00188,Cleaning,Sensor recalibrated,320,1370.2,Team A
+MT-00470,2025-02-21 00:30:00,7,EQ-00163,Cleaning,Cable inspection completed,112,2083.95,Team D
+MT-00471,2025-02-14 07:00:00,7,EQ-00188,Component Replacement,Breaker replaced,145,1947.23,Team A
+MT-00472,2025-06-01 22:00:00,20,EQ-00530,Corrective Maintenance,Inverter reset performed,58,2240.31,Team C
+MT-00473,2025-09-09 00:00:00,12,EQ-00322,Cleaning,Firmware updated,212,1772.34,Team A
+MT-00474,2025-11-18 07:45:00,8,EQ-00216,Corrective Maintenance,Breaker replaced,120,1214.91,Team D
+MT-00475,2025-11-30 02:15:00,12,EQ-00300,Inspection,Inverter reset performed,317,1859.38,Team B
+MT-00476,2025-04-30 12:15:00,20,EQ-00530,Preventive Maintenance,Panel cleaning completed,180,1131.02,Team D
+MT-00477,2025-05-16 22:15:00,13,EQ-00328,Component Replacement,Inverter reset performed,263,1781.91,Team A
+MT-00478,2025-06-18 20:00:00,10,EQ-00256,Corrective Maintenance,Loose connection repaired,21,230.59,Team D
+MT-00479,2025-05-15 10:30:00,4,EQ-00084,Cleaning,Cable inspection completed,30,2393.34,Team B
+MT-00480,2025-04-18 04:45:00,4,EQ-00094,Preventive Maintenance,Sensor recalibrated,213,2178.78,Team C
+MT-00481,2025-01-21 19:00:00,8,EQ-00191,Component Replacement,Inverter reset performed,136,712.56,Team A
+MT-00482,2025-06-02 07:30:00,8,EQ-00213,Corrective Maintenance,Loose connection repaired,127,2090.98,Team C
+MT-00483,2025-03-18 04:45:00,19,EQ-00510,Corrective Maintenance,Cable inspection completed,194,1313.51,Team C
+MT-00484,2025-01-02 15:45:00,19,EQ-00512,Component Replacement,Inverter reset performed,69,2493.65,Team B
+MT-00485,2025-04-04 18:30:00,8,EQ-00190,Cleaning,Firmware updated,38,379.13,Team C
+MT-00486,2025-03-28 09:30:00,5,EQ-00131,Component Replacement,Cable inspection completed,123,1186.47,Team B
+MT-00487,2025-04-10 14:15:00,2,EQ-00050,Component Replacement,Cable inspection completed,195,463.99,Team C
+MT-00488,2025-09-14 06:15:00,1,EQ-00009,Component Replacement,Transformer cooling checked,124,123.27,Team B
+MT-00489,2025-07-17 08:00:00,20,EQ-00528,Preventive Maintenance,Inverter reset performed,164,1485.62,Team C
+MT-00490,2025-02-13 10:15:00,4,EQ-00082,Corrective Maintenance,Firmware updated,215,1301.72,Team C
+MT-00491,2025-02-04 20:15:00,11,EQ-00293,Preventive Maintenance,Transformer cooling checked,314,983.27,Team B
+MT-00492,2025-08-09 11:00:00,16,EQ-00416,Inspection,Firmware updated,152,2427.95,Team D
+MT-00493,2025-07-07 11:30:00,10,EQ-00265,Component Replacement,Breaker replaced,177,396.6,Team C
+MT-00494,2025-03-13 12:30:00,13,EQ-00348,Component Replacement,Cable inspection completed,38,1561.63,Team A
+MT-00495,2025-02-15 09:45:00,3,EQ-00062,Component Replacement,Transformer cooling checked,234,663.3,Team D
+MT-00496,2025-07-04 06:45:00,4,EQ-00103,Preventive Maintenance,Inverter reset performed,173,2078.05,Team A
+MT-00497,2025-01-28 13:00:00,3,EQ-00066,Preventive Maintenance,Transformer cooling checked,50,1999.38,Team D
+MT-00498,2025-05-20 18:00:00,20,EQ-00520,Corrective Maintenance,Sensor recalibrated,309,2230.03,Team B
+MT-00499,2025-09-23 05:30:00,3,EQ-00074,Inspection,Breaker replaced,336,480.02,Team D
+MT-00500,2025-11-20 19:00:00,16,EQ-00406,Component Replacement,Inverter reset performed,306,88.43,Team A
+MT-00501,2025-06-30 20:45:00,20,EQ-00526,Component Replacement,Transformer cooling checked,231,1171.14,Team A
+MT-00502,2025-06-17 04:15:00,5,EQ-00132,Preventive Maintenance,Cable inspection completed,82,1534.39,Team C
+MT-00503,2025-05-09 21:15:00,18,EQ-00486,Cleaning,Firmware updated,49,319.7,Team A
+MT-00504,2025-05-19 20:45:00,10,EQ-00263,Inspection,Cable inspection completed,330,2112.04,Team D
+MT-00505,2025-11-14 09:45:00,3,EQ-00065,Preventive Maintenance,Firmware updated,180,371.58,Team C
+MT-00506,2025-06-18 09:00:00,6,EQ-00139,Preventive Maintenance,Firmware updated,58,1448.07,Team C
+MT-00507,2025-09-29 19:15:00,9,EQ-00223,Cleaning,Inverter reset performed,352,131.35,Team D
+MT-00508,2025-03-28 04:30:00,15,EQ-00383,Inspection,Cable inspection completed,37,839.8,Team C
+MT-00509,2025-12-29 01:00:00,5,EQ-00118,Corrective Maintenance,Inverter reset performed,354,1061.77,Team C
+MT-00510,2025-08-04 11:00:00,11,EQ-00289,Cleaning,Cable inspection completed,301,2130.11,Team D
+MT-00511,2025-08-25 04:00:00,3,EQ-00078,Preventive Maintenance,Breaker replaced,107,2458.19,Team B
+MT-00512,2025-09-21 22:45:00,5,EQ-00110,Inspection,Loose connection repaired,342,2018.91,Team C
+MT-00513,2025-05-15 01:30:00,12,EQ-00315,Preventive Maintenance,Breaker replaced,258,1192.22,Team B
+MT-00514,2025-02-26 04:30:00,9,EQ-00227,Cleaning,Cable inspection completed,118,774.27,Team B
+MT-00515,2025-11-25 02:45:00,19,EQ-00491,Preventive Maintenance,Sensor recalibrated,295,2187.83,Team A
+MT-00516,2025-03-07 23:00:00,11,EQ-00289,Component Replacement,Loose connection repaired,260,2306.15,Team A
+MT-00517,2025-10-27 19:30:00,17,EQ-00434,Preventive Maintenance,Sensor recalibrated,189,453.89,Team C
+MT-00518,2025-09-11 18:00:00,3,EQ-00071,Preventive Maintenance,Inverter reset performed,349,2109.98,Team D
+MT-00519,2025-05-07 23:45:00,17,EQ-00447,Corrective Maintenance,Cable inspection completed,201,232.73,Team C
+MT-00520,2025-09-22 13:45:00,2,EQ-00042,Inspection,Cable inspection completed,106,191.65,Team A
+MT-00521,2025-11-14 23:30:00,5,EQ-00129,Component Replacement,Firmware updated,245,1009.54,Team B
+MT-00522,2025-11-19 05:15:00,3,EQ-00072,Inspection,Breaker replaced,164,811.5,Team C
+MT-00523,2025-07-11 02:45:00,7,EQ-00166,Preventive Maintenance,Inverter reset performed,350,1932.19,Team B
+MT-00524,2025-02-21 21:45:00,8,EQ-00201,Inspection,Sensor recalibrated,201,2367.06,Team A
+MT-00525,2025-02-02 01:30:00,13,EQ-00325,Inspection,Loose connection repaired,33,80.82,Team C
+MT-00526,2025-06-13 18:15:00,3,EQ-00072,Inspection,Loose connection repaired,36,750.07,Team C
+MT-00527,2025-11-30 01:30:00,16,EQ-00409,Preventive Maintenance,Panel cleaning completed,118,1531.47,Team D
+MT-00528,2025-05-13 08:45:00,18,EQ-00479,Corrective Maintenance,Firmware updated,266,1067.74,Team B
+MT-00529,2025-06-21 14:30:00,18,EQ-00485,Corrective Maintenance,Breaker replaced,16,1105.23,Team A
+MT-00530,2025-09-18 15:00:00,9,EQ-00227,Cleaning,Loose connection repaired,198,1776.69,Team A
+MT-00531,2025-03-16 04:45:00,10,EQ-00268,Component Replacement,Firmware updated,287,2426.45,Team D
+MT-00532,2025-03-18 09:45:00,20,EQ-00532,Inspection,Inverter reset performed,83,1000.48,Team A
+MT-00533,2025-09-03 20:00:00,16,EQ-00424,Inspection,Cable inspection completed,159,1210.51,Team B
+MT-00534,2025-02-24 00:00:00,11,EQ-00282,Cleaning,Loose connection repaired,15,1336.97,Team D
+MT-00535,2025-11-19 10:45:00,9,EQ-00232,Component Replacement,Cable inspection completed,141,1828.79,Team D
+MT-00536,2025-05-25 14:30:00,13,EQ-00346,Cleaning,Cable inspection completed,325,422.3,Team B
+MT-00537,2025-03-07 00:30:00,16,EQ-00413,Preventive Maintenance,Inverter reset performed,181,1023.78,Team A
+MT-00538,2025-07-25 07:45:00,18,EQ-00476,Cleaning,Firmware updated,179,2307.24,Team D
+MT-00539,2025-11-14 10:45:00,1,EQ-00024,Preventive Maintenance,Transformer cooling checked,25,2345.48,Team D
+MT-00540,2025-05-24 13:00:00,14,EQ-00355,Component Replacement,Inverter reset performed,156,1122.86,Team C
+MT-00541,2025-08-14 13:30:00,12,EQ-00316,Corrective Maintenance,Transformer cooling checked,80,1382.02,Team B
+MT-00542,2025-04-23 02:15:00,2,EQ-00050,Component Replacement,Sensor recalibrated,282,2350.74,Team C
+MT-00543,2025-01-29 01:15:00,11,EQ-00282,Component Replacement,Inverter reset performed,291,793.72,Team B
+MT-00544,2025-03-12 05:00:00,6,EQ-00152,Cleaning,Breaker replaced,304,641.16,Team D
+MT-00545,2025-06-22 23:00:00,9,EQ-00238,Preventive Maintenance,Sensor recalibrated,33,1177.25,Team D
+MT-00546,2025-06-04 21:45:00,2,EQ-00033,Corrective Maintenance,Firmware updated,226,1482.01,Team D
+MT-00547,2025-10-28 03:45:00,10,EQ-00252,Corrective Maintenance,Loose connection repaired,119,1631.25,Team B
+MT-00548,2025-04-25 18:45:00,14,EQ-00378,Component Replacement,Sensor recalibrated,266,634.38,Team C
+MT-00549,2025-11-23 01:30:00,6,EQ-00140,Preventive Maintenance,Loose connection repaired,64,745.52,Team D
+MT-00550,2025-10-26 09:00:00,16,EQ-00407,Preventive Maintenance,Transformer cooling checked,123,1661.01,Team B
+MT-00551,2025-02-20 16:30:00,6,EQ-00139,Cleaning,Transformer cooling checked,133,1542.07,Team B
+MT-00552,2025-07-21 03:30:00,9,EQ-00243,Inspection,Firmware updated,202,2022.13,Team A
+MT-00553,2025-03-06 06:45:00,8,EQ-00201,Component Replacement,Inverter reset performed,131,1972.28,Team C
+MT-00554,2025-01-21 22:30:00,9,EQ-00234,Inspection,Loose connection repaired,291,636.66,Team C
+MT-00555,2025-12-11 03:15:00,12,EQ-00309,Preventive Maintenance,Firmware updated,266,347.12,Team C
+MT-00556,2025-05-21 14:45:00,8,EQ-00213,Cleaning,Loose connection repaired,216,1532.36,Team D
+MT-00557,2025-11-08 06:00:00,9,EQ-00234,Cleaning,Sensor recalibrated,258,1883.4,Team A
+MT-00558,2025-03-04 02:45:00,12,EQ-00309,Corrective Maintenance,Transformer cooling checked,337,2329.79,Team D
+MT-00559,2025-04-14 18:30:00,2,EQ-00052,Inspection,Sensor recalibrated,74,359.83,Team A
+MT-00560,2025-04-05 20:45:00,10,EQ-00245,Component Replacement,Cable inspection completed,321,1614.95,Team D
+MT-00561,2025-10-05 17:15:00,2,EQ-00028,Corrective Maintenance,Firmware updated,107,1699.08,Team B
+MT-00562,2025-12-12 22:15:00,8,EQ-00205,Preventive Maintenance,Breaker replaced,221,737.7,Team B
+MT-00563,2025-06-05 16:15:00,7,EQ-00180,Inspection,Cable inspection completed,134,611.17,Team C
+MT-00564,2025-08-03 03:15:00,1,EQ-00009,Corrective Maintenance,Cable inspection completed,255,1405.84,Team A
+MT-00565,2025-05-31 12:00:00,3,EQ-00059,Cleaning,Cable inspection completed,104,1414.65,Team C
+MT-00566,2025-05-15 12:45:00,11,EQ-00283,Cleaning,Sensor recalibrated,45,2295.13,Team C
+MT-00567,2025-02-25 07:15:00,14,EQ-00373,Inspection,Cable inspection completed,249,2425.39,Team C
+MT-00568,2025-01-21 03:45:00,6,EQ-00151,Inspection,Firmware updated,131,83.05,Team D
+MT-00569,2025-02-07 20:15:00,12,EQ-00319,Corrective Maintenance,Inverter reset performed,65,2431.77,Team D
+MT-00570,2025-09-29 05:30:00,7,EQ-00165,Preventive Maintenance,Transformer cooling checked,223,353.03,Team C
+MT-00571,2025-07-14 01:30:00,19,EQ-00494,Preventive Maintenance,Inverter reset performed,171,123.47,Team B
+MT-00572,2025-06-30 13:15:00,16,EQ-00411,Inspection,Loose connection repaired,272,1162.78,Team C
+MT-00573,2025-06-10 01:00:00,10,EQ-00255,Cleaning,Firmware updated,184,257.31,Team B
+MT-00574,2025-07-23 11:00:00,4,EQ-00086,Inspection,Panel cleaning completed,311,599.58,Team A
+MT-00575,2025-07-16 13:45:00,15,EQ-00399,Corrective Maintenance,Sensor recalibrated,43,705.24,Team C
+MT-00576,2025-09-20 09:30:00,5,EQ-00113,Cleaning,Transformer cooling checked,116,1061.76,Team B
+MT-00577,2025-06-07 02:15:00,12,EQ-00298,Cleaning,Breaker replaced,181,1517.97,Team A
+MT-00578,2025-08-08 23:00:00,7,EQ-00172,Corrective Maintenance,Firmware updated,293,257.84,Team B
+MT-00579,2025-07-19 22:00:00,18,EQ-00460,Component Replacement,Firmware updated,348,1573.7,Team C
+MT-00580,2025-06-08 18:00:00,17,EQ-00441,Component Replacement,Transformer cooling checked,178,2137.8,Team B
+MT-00581,2025-07-09 10:00:00,11,EQ-00276,Corrective Maintenance,Cable inspection completed,116,56.44,Team B
+MT-00582,2025-12-15 10:45:00,15,EQ-00392,Component Replacement,Inverter reset performed,215,2170.27,Team B
+MT-00583,2025-08-06 20:00:00,19,EQ-00511,Cleaning,Breaker replaced,308,2349.41,Team C
+MT-00584,2025-07-26 18:45:00,20,EQ-00514,Cleaning,Panel cleaning completed,32,2287.85,Team A
+MT-00585,2025-10-07 11:15:00,3,EQ-00065,Preventive Maintenance,Breaker replaced,24,1377.45,Team D
+MT-00586,2025-03-25 18:00:00,5,EQ-00133,Cleaning,Sensor recalibrated,270,2312.46,Team C
+MT-00587,2025-09-28 01:00:00,8,EQ-00203,Inspection,Transformer cooling checked,203,914.88,Team C
+MT-00588,2025-11-13 16:30:00,9,EQ-00222,Inspection,Transformer cooling checked,219,1733.78,Team B
+MT-00589,2025-01-01 09:00:00,18,EQ-00479,Cleaning,Firmware updated,174,1371.8,Team B
+MT-00590,2025-01-31 02:30:00,14,EQ-00369,Inspection,Sensor recalibrated,147,627.35,Team A
+MT-00591,2025-05-02 12:00:00,15,EQ-00398,Cleaning,Loose connection repaired,264,375.76,Team C
+MT-00592,2025-03-11 09:00:00,7,EQ-00173,Component Replacement,Transformer cooling checked,273,2254.56,Team A
+MT-00593,2025-05-03 00:15:00,13,EQ-00348,Inspection,Panel cleaning completed,49,441.0,Team C
+MT-00594,2025-05-14 19:45:00,2,EQ-00042,Cleaning,Loose connection repaired,79,860.81,Team A
+MT-00595,2025-11-07 22:00:00,11,EQ-00279,Component Replacement,Panel cleaning completed,295,821.79,Team D
+MT-00596,2025-06-17 02:00:00,7,EQ-00187,Inspection,Cable inspection completed,121,2491.73,Team D
+MT-00597,2025-04-10 15:30:00,17,EQ-00450,Inspection,Sensor recalibrated,59,757.88,Team A
+MT-00598,2025-08-04 16:30:00,6,EQ-00144,Preventive Maintenance,Breaker replaced,57,2090.29,Team D
+MT-00599,2025-02-06 07:30:00,3,EQ-00060,Corrective Maintenance,Firmware updated,85,2458.97,Team A
+MT-00600,2025-02-19 21:15:00,5,EQ-00128,Cleaning,Sensor recalibrated,222,1165.43,Team A
+MT-00601,2025-06-09 02:30:00,2,EQ-00040,Preventive Maintenance,Sensor recalibrated,219,1110.84,Team D
+MT-00602,2025-03-05 08:00:00,14,EQ-00364,Cleaning,Inverter reset performed,78,304.46,Team C
+MT-00603,2025-09-11 08:00:00,9,EQ-00227,Corrective Maintenance,Breaker replaced,271,686.23,Team A
+MT-00604,2025-02-13 18:30:00,20,EQ-00540,Preventive Maintenance,Panel cleaning completed,255,403.3,Team B
+MT-00605,2025-05-10 12:15:00,12,EQ-00311,Preventive Maintenance,Firmware updated,145,1600.11,Team A
+MT-00606,2025-11-03 14:15:00,6,EQ-00145,Inspection,Transformer cooling checked,318,2051.33,Team B
+MT-00607,2025-09-01 15:30:00,8,EQ-00215,Corrective Maintenance,Transformer cooling checked,132,333.64,Team A
+MT-00608,2025-06-03 11:30:00,11,EQ-00274,Component Replacement,Loose connection repaired,258,1902.44,Team B
+MT-00609,2025-02-25 05:00:00,10,EQ-00254,Inspection,Firmware updated,69,1815.79,Team A
+MT-00610,2025-06-10 04:45:00,17,EQ-00435,Inspection,Sensor recalibrated,42,2344.65,Team A
+MT-00611,2025-10-14 08:15:00,17,EQ-00438,Component Replacement,Cable inspection completed,157,481.37,Team C
+MT-00612,2025-12-19 14:30:00,20,EQ-00539,Preventive Maintenance,Loose connection repaired,94,102.1,Team A
+MT-00613,2025-02-25 06:45:00,14,EQ-00367,Corrective Maintenance,Transformer cooling checked,192,556.73,Team C
+MT-00614,2025-12-28 22:45:00,9,EQ-00223,Component Replacement,Firmware updated,309,95.1,Team D
+MT-00615,2025-01-26 20:00:00,11,EQ-00297,Preventive Maintenance,Cable inspection completed,212,1896.62,Team D
+MT-00616,2025-07-15 16:45:00,13,EQ-00329,Corrective Maintenance,Sensor recalibrated,21,561.05,Team C
+MT-00617,2025-08-02 05:30:00,1,EQ-00026,Component Replacement,Transformer cooling checked,270,908.54,Team D
+MT-00618,2025-06-18 04:30:00,8,EQ-00207,Component Replacement,Panel cleaning completed,79,769.29,Team B
+MT-00619,2025-04-23 01:00:00,15,EQ-00380,Preventive Maintenance,Loose connection repaired,24,1289.29,Team D
+MT-00620,2025-11-07 15:30:00,5,EQ-00130,Component Replacement,Inverter reset performed,132,2499.72,Team C
+MT-00621,2025-11-04 21:15:00,17,EQ-00437,Inspection,Loose connection repaired,306,711.18,Team D
+MT-00622,2025-08-27 05:00:00,13,EQ-00338,Component Replacement,Breaker replaced,158,1921.06,Team D
+MT-00623,2025-08-09 04:15:00,7,EQ-00188,Cleaning,Cable inspection completed,142,1574.79,Team B
+MT-00624,2025-02-15 21:00:00,18,EQ-00469,Preventive Maintenance,Panel cleaning completed,266,79.45,Team A
+MT-00625,2025-10-31 01:45:00,12,EQ-00315,Cleaning,Transformer cooling checked,230,237.96,Team C
+MT-00626,2025-05-07 20:45:00,17,EQ-00448,Corrective Maintenance,Sensor recalibrated,359,1205.79,Team A
+MT-00627,2025-10-19 05:15:00,10,EQ-00255,Component Replacement,Breaker replaced,108,1475.11,Team D
+MT-00628,2025-06-21 14:15:00,1,EQ-00027,Cleaning,Panel cleaning completed,166,2095.38,Team A
+MT-00629,2025-12-18 06:00:00,10,EQ-00266,Corrective Maintenance,Panel cleaning completed,297,1486.07,Team A
+MT-00630,2025-10-08 03:15:00,15,EQ-00398,Component Replacement,Loose connection repaired,22,1840.33,Team C
+MT-00631,2025-06-07 16:00:00,10,EQ-00270,Corrective Maintenance,Firmware updated,293,1587.16,Team B
+MT-00632,2025-03-24 01:30:00,8,EQ-00211,Cleaning,Breaker replaced,109,1387.51,Team D
+MT-00633,2025-05-27 16:45:00,3,EQ-00055,Inspection,Loose connection repaired,324,1705.11,Team A
+MT-00634,2025-12-19 12:30:00,1,EQ-00025,Cleaning,Inverter reset performed,269,167.28,Team A
+MT-00635,2025-05-14 19:30:00,10,EQ-00253,Preventive Maintenance,Breaker replaced,171,2032.21,Team A
+MT-00636,2025-06-18 05:45:00,11,EQ-00288,Inspection,Firmware updated,321,1938.26,Team B
+MT-00637,2025-09-10 02:45:00,3,EQ-00071,Cleaning,Panel cleaning completed,287,1389.23,Team B
+MT-00638,2025-08-19 06:00:00,13,EQ-00332,Inspection,Panel cleaning completed,60,2017.31,Team A
+MT-00639,2025-05-30 12:45:00,15,EQ-00400,Corrective Maintenance,Cable inspection completed,92,1485.79,Team A
+MT-00640,2025-02-14 06:30:00,18,EQ-00482,Corrective Maintenance,Transformer cooling checked,117,1106.03,Team B
+MT-00641,2025-11-01 00:15:00,3,EQ-00063,Cleaning,Breaker replaced,262,1624.46,Team C
+MT-00642,2025-01-25 07:45:00,19,EQ-00500,Cleaning,Breaker replaced,238,825.62,Team B
+MT-00643,2025-04-13 21:30:00,19,EQ-00488,Preventive Maintenance,Firmware updated,215,111.6,Team A
+MT-00644,2025-02-18 21:45:00,16,EQ-00430,Inspection,Transformer cooling checked,74,497.36,Team A
+MT-00645,2025-08-28 14:45:00,5,EQ-00116,Inspection,Panel cleaning completed,301,2342.11,Team B
+MT-00646,2025-05-11 22:30:00,8,EQ-00194,Cleaning,Inverter reset performed,349,1005.55,Team A
+MT-00647,2025-04-10 01:30:00,12,EQ-00322,Preventive Maintenance,Firmware updated,213,72.58,Team B
+MT-00648,2025-04-30 17:30:00,11,EQ-00297,Preventive Maintenance,Firmware updated,185,516.04,Team B
+MT-00649,2025-09-24 14:00:00,17,EQ-00453,Cleaning,Loose connection repaired,348,684.13,Team C
+MT-00650,2025-04-24 19:00:00,4,EQ-00095,Preventive Maintenance,Firmware updated,125,1768.62,Team B
+MT-00651,2025-06-13 21:30:00,16,EQ-00429,Preventive Maintenance,Panel cleaning completed,312,2070.09,Team C
+MT-00652,2025-10-06 07:15:00,5,EQ-00132,Cleaning,Cable inspection completed,166,609.74,Team D
+MT-00653,2025-01-25 13:15:00,6,EQ-00140,Inspection,Firmware updated,31,781.27,Team C
+MT-00654,2025-08-16 23:15:00,1,EQ-00020,Component Replacement,Cable inspection completed,28,1472.2,Team C
+MT-00655,2025-12-05 06:45:00,13,EQ-00345,Cleaning,Loose connection repaired,135,1600.23,Team C
+MT-00656,2025-05-03 01:15:00,12,EQ-00323,Inspection,Transformer cooling checked,63,704.53,Team C
+MT-00657,2025-01-15 13:00:00,8,EQ-00214,Component Replacement,Cable inspection completed,207,1860.89,Team B
+MT-00658,2025-03-07 21:15:00,8,EQ-00205,Cleaning,Transformer cooling checked,141,2348.11,Team C
+MT-00659,2025-10-04 07:45:00,16,EQ-00410,Cleaning,Loose connection repaired,313,1249.73,Team B
+MT-00660,2025-03-22 11:45:00,6,EQ-00160,Component Replacement,Panel cleaning completed,251,1209.2,Team B
+MT-00661,2025-04-01 23:45:00,9,EQ-00222,Component Replacement,Inverter reset performed,342,1565.85,Team A
+MT-00662,2025-08-13 23:30:00,8,EQ-00211,Corrective Maintenance,Panel cleaning completed,294,451.37,Team D
+MT-00663,2025-08-25 05:30:00,15,EQ-00396,Inspection,Transformer cooling checked,205,1506.7,Team B
+MT-00664,2025-07-07 05:45:00,12,EQ-00323,Preventive Maintenance,Firmware updated,93,926.85,Team B
+MT-00665,2025-11-05 12:30:00,5,EQ-00130,Inspection,Breaker replaced,135,1351.11,Team B
+MT-00666,2025-12-17 02:45:00,7,EQ-00185,Inspection,Transformer cooling checked,262,1241.3,Team A
+MT-00667,2025-08-23 06:00:00,20,EQ-00515,Preventive Maintenance,Loose connection repaired,223,1623.45,Team B
+MT-00668,2025-06-29 07:30:00,20,EQ-00527,Preventive Maintenance,Cable inspection completed,107,2248.12,Team D
+MT-00669,2025-11-26 10:45:00,11,EQ-00297,Cleaning,Loose connection repaired,120,2009.75,Team C
+MT-00670,2025-04-27 03:45:00,7,EQ-00183,Component Replacement,Cable inspection completed,295,2110.38,Team C
+MT-00671,2025-07-09 06:30:00,17,EQ-00451,Component Replacement,Loose connection repaired,280,154.99,Team C
+MT-00672,2025-01-03 17:00:00,5,EQ-00116,Corrective Maintenance,Transformer cooling checked,204,510.29,Team C
+MT-00673,2025-03-16 09:30:00,12,EQ-00303,Preventive Maintenance,Sensor recalibrated,69,2462.05,Team D
+MT-00674,2025-02-20 04:30:00,4,EQ-00093,Cleaning,Breaker replaced,314,917.81,Team B
+MT-00675,2025-05-18 10:30:00,2,EQ-00049,Corrective Maintenance,Transformer cooling checked,141,235.39,Team B
+MT-00676,2025-08-12 01:00:00,15,EQ-00385,Corrective Maintenance,Transformer cooling checked,187,217.59,Team B
+MT-00677,2025-08-22 14:45:00,17,EQ-00438,Cleaning,Cable inspection completed,223,158.69,Team B
+MT-00678,2025-02-02 19:00:00,1,EQ-00026,Inspection,Inverter reset performed,116,1041.04,Team C
+MT-00679,2025-07-03 02:15:00,13,EQ-00334,Preventive Maintenance,Transformer cooling checked,331,804.92,Team B
+MT-00680,2025-03-04 15:15:00,13,EQ-00332,Cleaning,Sensor recalibrated,328,211.79,Team A
+MT-00681,2025-03-01 16:15:00,9,EQ-00230,Corrective Maintenance,Firmware updated,338,1019.3,Team C
+MT-00682,2025-12-03 03:00:00,3,EQ-00067,Preventive Maintenance,Breaker replaced,255,2204.45,Team B
+MT-00683,2025-09-18 04:30:00,17,EQ-00447,Preventive Maintenance,Firmware updated,136,353.91,Team B
+MT-00684,2025-01-27 08:00:00,8,EQ-00206,Inspection,Inverter reset performed,95,397.0,Team C
+MT-00685,2025-12-14 20:00:00,6,EQ-00146,Component Replacement,Breaker replaced,92,1491.25,Team B
+MT-00686,2025-04-22 17:30:00,19,EQ-00513,Preventive Maintenance,Firmware updated,151,2025.75,Team B
+MT-00687,2025-07-23 03:30:00,20,EQ-00522,Preventive Maintenance,Inverter reset performed,303,676.81,Team C
+MT-00688,2025-04-09 02:00:00,14,EQ-00363,Inspection,Sensor recalibrated,16,2070.19,Team D
+MT-00689,2025-08-20 05:15:00,7,EQ-00166,Inspection,Breaker replaced,185,1690.39,Team D
+MT-00690,2025-09-26 09:30:00,11,EQ-00271,Inspection,Breaker replaced,171,642.12,Team C
+MT-00691,2025-05-09 20:45:00,3,EQ-00078,Preventive Maintenance,Firmware updated,133,783.04,Team B
+MT-00692,2025-06-18 20:30:00,18,EQ-00466,Cleaning,Panel cleaning completed,17,518.1,Team A
+MT-00693,2025-12-06 02:30:00,15,EQ-00383,Cleaning,Inverter reset performed,136,863.24,Team B
+MT-00694,2025-10-06 20:45:00,5,EQ-00124,Cleaning,Cable inspection completed,260,2455.61,Team D
+MT-00695,2025-03-25 02:00:00,18,EQ-00484,Component Replacement,Cable inspection completed,118,797.77,Team A
+MT-00696,2025-10-16 22:00:00,17,EQ-00433,Preventive Maintenance,Transformer cooling checked,192,2262.14,Team C
+MT-00697,2025-02-14 13:15:00,12,EQ-00298,Preventive Maintenance,Breaker replaced,234,65.57,Team A
+MT-00698,2025-08-14 10:45:00,8,EQ-00194,Preventive Maintenance,Firmware updated,349,1216.29,Team D
+MT-00699,2025-04-08 02:15:00,2,EQ-00046,Corrective Maintenance,Panel cleaning completed,321,552.47,Team B
+MT-00700,2025-01-02 12:45:00,13,EQ-00341,Corrective Maintenance,Sensor recalibrated,336,121.8,Team B
+MT-00701,2025-08-15 22:15:00,14,EQ-00368,Corrective Maintenance,Inverter reset performed,129,1132.88,Team A
+MT-00702,2025-06-12 01:15:00,12,EQ-00320,Inspection,Transformer cooling checked,25,1002.7,Team D
+MT-00703,2025-01-16 03:15:00,19,EQ-00497,Corrective Maintenance,Inverter reset performed,96,1821.95,Team A
+MT-00704,2025-07-16 07:15:00,6,EQ-00157,Inspection,Loose connection repaired,249,1202.53,Team D
+MT-00705,2025-05-07 00:45:00,3,EQ-00072,Preventive Maintenance,Firmware updated,268,521.66,Team D
+MT-00706,2025-09-04 05:15:00,20,EQ-00539,Corrective Maintenance,Firmware updated,333,2050.29,Team A
+MT-00707,2025-07-14 18:00:00,17,EQ-00448,Inspection,Inverter reset performed,120,281.85,Team A
+MT-00708,2025-03-12 13:30:00,11,EQ-00296,Component Replacement,Panel cleaning completed,130,2204.23,Team B
+MT-00709,2025-12-27 22:15:00,15,EQ-00405,Cleaning,Loose connection repaired,77,1636.94,Team B
+MT-00710,2025-12-02 20:00:00,9,EQ-00232,Inspection,Loose connection repaired,301,972.79,Team C
+MT-00711,2025-07-21 01:15:00,7,EQ-00166,Inspection,Cable inspection completed,113,2058.52,Team A
+MT-00712,2025-11-21 06:00:00,16,EQ-00420,Component Replacement,Firmware updated,123,246.84,Team D
+MT-00713,2025-08-14 21:00:00,11,EQ-00295,Corrective Maintenance,Loose connection repaired,264,2174.44,Team A
+MT-00714,2025-10-05 01:45:00,6,EQ-00139,Preventive Maintenance,Inverter reset performed,37,1035.03,Team B
+MT-00715,2025-11-17 01:15:00,14,EQ-00362,Component Replacement,Panel cleaning completed,62,662.48,Team C
+MT-00716,2025-06-03 19:00:00,5,EQ-00114,Preventive Maintenance,Breaker replaced,246,1392.64,Team C
+MT-00717,2025-10-15 13:00:00,13,EQ-00335,Inspection,Loose connection repaired,27,2001.61,Team A
+MT-00718,2025-12-17 02:15:00,13,EQ-00338,Corrective Maintenance,Inverter reset performed,108,2051.88,Team A
+MT-00719,2025-11-05 17:15:00,14,EQ-00356,Cleaning,Cable inspection completed,269,1357.4,Team B
+MT-00720,2025-06-18 22:00:00,5,EQ-00132,Preventive Maintenance,Loose connection repaired,328,1318.18,Team C
+MT-00721,2025-05-24 22:15:00,11,EQ-00274,Component Replacement,Firmware updated,328,809.16,Team C
+MT-00722,2025-02-24 09:30:00,10,EQ-00253,Inspection,Transformer cooling checked,129,1323.37,Team C
+MT-00723,2025-02-05 08:30:00,16,EQ-00410,Cleaning,Panel cleaning completed,23,2124.7,Team A
+MT-00724,2025-04-17 01:30:00,13,EQ-00340,Corrective Maintenance,Breaker replaced,150,820.95,Team C
+MT-00725,2025-12-08 04:00:00,5,EQ-00113,Corrective Maintenance,Breaker replaced,282,1439.91,Team B
+MT-00726,2025-01-04 11:00:00,19,EQ-00507,Corrective Maintenance,Transformer cooling checked,330,2007.28,Team C
+MT-00727,2025-05-29 02:00:00,6,EQ-00153,Cleaning,Firmware updated,36,2471.01,Team C
+MT-00728,2025-10-29 11:15:00,10,EQ-00257,Corrective Maintenance,Cable inspection completed,313,2451.45,Team C
+MT-00729,2025-11-18 17:30:00,8,EQ-00201,Corrective Maintenance,Inverter reset performed,347,1671.45,Team B
+MT-00730,2025-11-11 06:00:00,2,EQ-00038,Corrective Maintenance,Breaker replaced,285,2389.13,Team B
+MT-00731,2025-07-21 23:15:00,11,EQ-00284,Corrective Maintenance,Firmware updated,100,2198.47,Team A
+MT-00732,2025-07-31 16:00:00,10,EQ-00247,Component Replacement,Panel cleaning completed,274,356.94,Team A
+MT-00733,2025-07-19 16:00:00,10,EQ-00249,Cleaning,Sensor recalibrated,308,58.81,Team C
+MT-00734,2025-08-09 22:45:00,18,EQ-00473,Inspection,Cable inspection completed,308,70.47,Team A
+MT-00735,2025-04-06 11:45:00,5,EQ-00126,Component Replacement,Cable inspection completed,183,1927.58,Team D
+MT-00736,2025-05-10 11:15:00,7,EQ-00164,Component Replacement,Transformer cooling checked,38,209.04,Team C
+MT-00737,2025-09-04 00:30:00,7,EQ-00172,Component Replacement,Transformer cooling checked,152,1634.65,Team B
+MT-00738,2025-07-26 19:00:00,16,EQ-00409,Corrective Maintenance,Breaker replaced,282,1878.9,Team C
+MT-00739,2025-10-01 05:45:00,19,EQ-00506,Cleaning,Loose connection repaired,207,1341.42,Team A
+MT-00740,2025-06-21 20:30:00,14,EQ-00370,Inspection,Breaker replaced,64,1336.59,Team D
+MT-00741,2025-10-12 20:00:00,12,EQ-00317,Corrective Maintenance,Loose connection repaired,65,399.15,Team B
+MT-00742,2025-10-10 21:15:00,12,EQ-00317,Corrective Maintenance,Sensor recalibrated,275,895.58,Team C
+MT-00743,2025-11-30 10:45:00,5,EQ-00127,Corrective Maintenance,Loose connection repaired,340,1290.63,Team B
+MT-00744,2025-05-05 11:00:00,16,EQ-00406,Preventive Maintenance,Transformer cooling checked,29,1932.56,Team A
+MT-00745,2025-11-02 01:15:00,17,EQ-00447,Corrective Maintenance,Loose connection repaired,308,434.74,Team A
+MT-00746,2025-06-25 13:30:00,16,EQ-00408,Corrective Maintenance,Loose connection repaired,341,1215.9,Team C
+MT-00747,2025-07-25 12:30:00,14,EQ-00366,Corrective Maintenance,Sensor recalibrated,341,1131.09,Team B
+MT-00748,2025-01-03 08:45:00,5,EQ-00119,Component Replacement,Firmware updated,182,293.78,Team C
+MT-00749,2025-09-19 01:30:00,3,EQ-00077,Component Replacement,Transformer cooling checked,166,744.16,Team A
+MT-00750,2025-02-07 04:15:00,5,EQ-00115,Inspection,Sensor recalibrated,103,839.36,Team D
+MT-00751,2025-05-02 18:15:00,4,EQ-00088,Cleaning,Transformer cooling checked,183,1052.06,Team A
+MT-00752,2025-12-04 17:00:00,8,EQ-00215,Corrective Maintenance,Breaker replaced,319,2380.06,Team C
+MT-00753,2025-01-20 11:15:00,15,EQ-00386,Preventive Maintenance,Transformer cooling checked,119,878.3,Team D
+MT-00754,2025-10-07 17:30:00,8,EQ-00194,Cleaning,Inverter reset performed,62,2120.23,Team D
+MT-00755,2025-03-27 22:00:00,19,EQ-00490,Component Replacement,Loose connection repaired,64,2466.7,Team B
+MT-00756,2025-12-25 17:00:00,8,EQ-00191,Corrective Maintenance,Cable inspection completed,83,492.44,Team D
+MT-00757,2025-08-12 06:45:00,5,EQ-00112,Inspection,Sensor recalibrated,338,1328.05,Team A
+MT-00758,2025-09-19 05:00:00,2,EQ-00054,Cleaning,Panel cleaning completed,228,587.84,Team D
+MT-00759,2025-04-16 13:30:00,18,EQ-00460,Corrective Maintenance,Loose connection repaired,201,262.68,Team B
+MT-00760,2025-03-18 23:45:00,6,EQ-00147,Corrective Maintenance,Breaker replaced,317,809.12,Team D
+MT-00761,2025-07-17 18:15:00,15,EQ-00379,Cleaning,Breaker replaced,253,1838.52,Team D
+MT-00762,2025-05-06 03:00:00,19,EQ-00499,Component Replacement,Cable inspection completed,170,1933.44,Team C
+MT-00763,2025-12-31 00:00:00,16,EQ-00411,Cleaning,Breaker replaced,230,2347.56,Team B
+MT-00764,2025-11-19 02:15:00,4,EQ-00084,Preventive Maintenance,Firmware updated,188,525.12,Team A
+MT-00765,2025-03-19 04:45:00,18,EQ-00474,Inspection,Transformer cooling checked,134,2044.26,Team C
+MT-00766,2025-04-11 18:00:00,17,EQ-00445,Cleaning,Breaker replaced,200,914.87,Team D
+MT-00767,2025-10-07 19:30:00,11,EQ-00284,Corrective Maintenance,Sensor recalibrated,30,233.14,Team A
+MT-00768,2025-01-26 21:15:00,12,EQ-00318,Cleaning,Inverter reset performed,220,553.95,Team D
+MT-00769,2025-08-18 05:00:00,2,EQ-00046,Component Replacement,Panel cleaning completed,129,1147.6,Team C
+MT-00770,2025-07-27 11:15:00,15,EQ-00392,Cleaning,Sensor recalibrated,25,950.77,Team C
+MT-00771,2025-06-14 17:00:00,1,EQ-00023,Corrective Maintenance,Transformer cooling checked,345,2092.61,Team B
+MT-00772,2025-04-20 06:15:00,20,EQ-00522,Inspection,Loose connection repaired,156,340.1,Team C
+MT-00773,2025-02-12 01:15:00,1,EQ-00025,Component Replacement,Cable inspection completed,68,1450.5,Team C
+MT-00774,2025-07-28 07:30:00,10,EQ-00256,Inspection,Sensor recalibrated,310,714.81,Team D
+MT-00775,2025-06-12 23:00:00,3,EQ-00081,Inspection,Loose connection repaired,211,1820.63,Team D
+MT-00776,2025-04-11 10:00:00,18,EQ-00468,Inspection,Firmware updated,316,2293.36,Team A
+MT-00777,2025-10-16 11:45:00,4,EQ-00100,Corrective Maintenance,Cable inspection completed,68,375.46,Team C
+MT-00778,2025-05-07 01:15:00,4,EQ-00105,Cleaning,Sensor recalibrated,40,742.97,Team B
+MT-00779,2025-12-09 02:45:00,4,EQ-00095,Cleaning,Transformer cooling checked,314,1918.23,Team D
+MT-00780,2025-10-31 16:15:00,16,EQ-00413,Corrective Maintenance,Sensor recalibrated,165,2139.53,Team A
+MT-00781,2025-09-18 11:15:00,10,EQ-00254,Preventive Maintenance,Breaker replaced,185,2174.54,Team D
+MT-00782,2025-03-25 02:45:00,18,EQ-00468,Component Replacement,Sensor recalibrated,300,1195.95,Team A
+MT-00783,2025-03-29 04:45:00,6,EQ-00146,Cleaning,Firmware updated,121,302.53,Team C
+MT-00784,2025-04-24 23:45:00,16,EQ-00410,Component Replacement,Transformer cooling checked,193,274.32,Team A
+MT-00785,2025-06-27 11:00:00,18,EQ-00482,Preventive Maintenance,Breaker replaced,341,535.35,Team D
+MT-00786,2025-07-29 03:45:00,10,EQ-00244,Corrective Maintenance,Sensor recalibrated,319,1118.78,Team C
+MT-00787,2025-07-29 09:15:00,7,EQ-00179,Preventive Maintenance,Loose connection repaired,269,1589.98,Team C
+MT-00788,2025-09-17 00:45:00,2,EQ-00039,Cleaning,Panel cleaning completed,19,1676.01,Team D
+MT-00789,2025-06-30 07:45:00,18,EQ-00479,Preventive Maintenance,Panel cleaning completed,101,2284.3,Team C
+MT-00790,2025-05-29 02:30:00,11,EQ-00277,Corrective Maintenance,Firmware updated,58,1824.98,Team B
+MT-00791,2025-12-29 14:00:00,12,EQ-00315,Inspection,Firmware updated,108,2278.54,Team B
+MT-00792,2025-12-22 14:45:00,11,EQ-00292,Component Replacement,Panel cleaning completed,267,488.56,Team D
+MT-00793,2025-10-17 07:00:00,4,EQ-00107,Corrective Maintenance,Firmware updated,41,1831.68,Team A
+MT-00794,2025-02-02 00:30:00,19,EQ-00509,Corrective Maintenance,Sensor recalibrated,210,1598.16,Team D
+MT-00795,2025-04-02 23:30:00,3,EQ-00062,Corrective Maintenance,Panel cleaning completed,151,835.51,Team D
+MT-00796,2025-02-12 00:45:00,8,EQ-00206,Component Replacement,Inverter reset performed,85,1641.14,Team C
+MT-00797,2025-03-27 10:45:00,6,EQ-00144,Inspection,Cable inspection completed,52,117.35,Team C
+MT-00798,2025-07-03 19:00:00,6,EQ-00137,Preventive Maintenance,Breaker replaced,179,1518.55,Team B
+MT-00799,2025-08-20 00:45:00,19,EQ-00489,Inspection,Loose connection repaired,331,974.09,Team A
+MT-00800,2025-08-27 00:15:00,20,EQ-00525,Cleaning,Breaker replaced,42,1138.82,Team D
+MT-00801,2025-11-29 04:30:00,20,EQ-00515,Preventive Maintenance,Firmware updated,244,2134.77,Team A
+MT-00802,2025-03-14 21:00:00,6,EQ-00145,Preventive Maintenance,Sensor recalibrated,332,410.79,Team C
+MT-00803,2025-11-14 13:45:00,9,EQ-00242,Cleaning,Firmware updated,198,1458.49,Team D
+MT-00804,2025-10-09 23:00:00,14,EQ-00378,Inspection,Firmware updated,159,1848.6,Team C
+MT-00805,2025-07-31 08:45:00,14,EQ-00356,Component Replacement,Panel cleaning completed,131,1357.13,Team C
+MT-00806,2025-08-13 12:30:00,5,EQ-00112,Corrective Maintenance,Breaker replaced,273,1314.92,Team C
+MT-00807,2025-09-22 18:00:00,8,EQ-00195,Cleaning,Inverter reset performed,297,607.65,Team D
+MT-00808,2025-02-27 06:15:00,13,EQ-00338,Component Replacement,Transformer cooling checked,186,1853.82,Team D
+MT-00809,2025-04-12 09:30:00,7,EQ-00167,Preventive Maintenance,Panel cleaning completed,36,512.34,Team C
+MT-00810,2025-09-24 23:30:00,4,EQ-00108,Inspection,Cable inspection completed,140,657.11,Team D
+MT-00811,2025-06-11 23:30:00,1,EQ-00006,Preventive Maintenance,Transformer cooling checked,158,1908.75,Team A
+MT-00812,2025-01-08 17:30:00,7,EQ-00180,Inspection,Transformer cooling checked,84,853.68,Team C
+MT-00813,2025-08-08 18:30:00,17,EQ-00446,Preventive Maintenance,Breaker replaced,51,1848.62,Team B
+MT-00814,2025-09-03 09:45:00,18,EQ-00463,Cleaning,Loose connection repaired,58,1508.13,Team B
+MT-00815,2025-07-02 14:15:00,11,EQ-00294,Corrective Maintenance,Inverter reset performed,113,1137.16,Team D
+MT-00816,2025-01-24 08:45:00,12,EQ-00300,Component Replacement,Inverter reset performed,76,1760.96,Team D
+MT-00817,2025-06-05 02:30:00,3,EQ-00073,Component Replacement,Panel cleaning completed,340,1942.68,Team C
+MT-00818,2025-09-02 19:15:00,9,EQ-00240,Cleaning,Transformer cooling checked,327,998.2,Team D
+MT-00819,2025-09-05 15:30:00,20,EQ-00540,Component Replacement,Inverter reset performed,110,671.25,Team D
+MT-00820,2025-01-20 17:00:00,13,EQ-00335,Cleaning,Loose connection repaired,218,1864.67,Team A
+MT-00821,2025-10-05 22:45:00,9,EQ-00239,Preventive Maintenance,Breaker replaced,326,478.81,Team A
+MT-00822,2025-08-16 16:00:00,3,EQ-00075,Inspection,Panel cleaning completed,313,1189.62,Team B
+MT-00823,2025-08-09 13:15:00,18,EQ-00475,Preventive Maintenance,Loose connection repaired,115,407.95,Team C
+MT-00824,2025-10-29 05:45:00,16,EQ-00432,Corrective Maintenance,Breaker replaced,241,338.03,Team D
+MT-00825,2025-11-27 09:00:00,14,EQ-00378,Cleaning,Firmware updated,167,857.61,Team B
+MT-00826,2025-10-19 18:00:00,6,EQ-00148,Cleaning,Cable inspection completed,187,641.47,Team B
+MT-00827,2025-10-02 01:15:00,3,EQ-00070,Corrective Maintenance,Loose connection repaired,358,1881.71,Team B
+MT-00828,2025-07-05 06:45:00,8,EQ-00194,Corrective Maintenance,Loose connection repaired,139,1640.16,Team C
+MT-00829,2025-09-10 05:45:00,1,EQ-00027,Preventive Maintenance,Sensor recalibrated,167,1945.98,Team A
+MT-00830,2025-12-22 14:45:00,20,EQ-00535,Corrective Maintenance,Sensor recalibrated,161,1817.34,Team D
+MT-00831,2025-06-24 15:45:00,16,EQ-00420,Corrective Maintenance,Sensor recalibrated,200,1020.44,Team C
+MT-00832,2025-02-21 19:45:00,8,EQ-00216,Inspection,Firmware updated,279,247.99,Team A
+MT-00833,2025-03-22 06:30:00,13,EQ-00329,Inspection,Inverter reset performed,357,1794.58,Team C
+MT-00834,2025-01-14 02:30:00,5,EQ-00123,Preventive Maintenance,Inverter reset performed,93,1746.32,Team B
+MT-00835,2025-03-12 08:45:00,18,EQ-00469,Cleaning,Firmware updated,108,530.54,Team D
+MT-00836,2025-05-05 18:00:00,10,EQ-00259,Corrective Maintenance,Inverter reset performed,194,1373.09,Team D
+MT-00837,2025-05-04 14:45:00,2,EQ-00036,Corrective Maintenance,Inverter reset performed,43,1656.26,Team B
+MT-00838,2025-02-18 01:45:00,19,EQ-00503,Component Replacement,Loose connection repaired,141,2029.53,Team A
+MT-00839,2025-01-03 10:00:00,18,EQ-00467,Cleaning,Sensor recalibrated,46,1941.3,Team B
+MT-00840,2025-07-10 15:45:00,16,EQ-00431,Component Replacement,Cable inspection completed,93,2099.4,Team C
+MT-00841,2025-07-28 12:00:00,9,EQ-00232,Cleaning,Sensor recalibrated,91,2452.75,Team C
+MT-00842,2025-10-17 22:00:00,7,EQ-00167,Cleaning,Panel cleaning completed,195,2472.45,Team C
+MT-00843,2025-07-15 07:45:00,10,EQ-00253,Preventive Maintenance,Sensor recalibrated,250,272.66,Team B
+MT-00844,2025-03-23 17:00:00,17,EQ-00454,Cleaning,Breaker replaced,55,1540.14,Team D
+MT-00845,2025-02-16 15:00:00,7,EQ-00188,Component Replacement,Panel cleaning completed,297,453.14,Team C
+MT-00846,2025-06-27 10:00:00,18,EQ-00477,Cleaning,Cable inspection completed,205,2111.23,Team C
+MT-00847,2025-09-17 05:00:00,7,EQ-00165,Corrective Maintenance,Panel cleaning completed,40,597.56,Team D
+MT-00848,2025-10-29 10:15:00,7,EQ-00185,Cleaning,Inverter reset performed,43,2173.01,Team B
+MT-00849,2025-04-19 02:00:00,10,EQ-00249,Preventive Maintenance,Panel cleaning completed,255,2407.31,Team A
+MT-00850,2025-09-14 08:30:00,3,EQ-00066,Corrective Maintenance,Sensor recalibrated,317,1147.33,Team A
+MT-00851,2025-07-01 12:15:00,9,EQ-00227,Cleaning,Firmware updated,349,455.6,Team D
+MT-00852,2025-08-24 09:15:00,15,EQ-00382,Corrective Maintenance,Cable inspection completed,108,1522.77,Team B
+MT-00853,2025-11-15 18:00:00,11,EQ-00279,Cleaning,Sensor recalibrated,239,251.62,Team C
+MT-00854,2025-02-24 02:30:00,7,EQ-00172,Component Replacement,Sensor recalibrated,80,1967.69,Team B
+MT-00855,2025-09-20 05:45:00,2,EQ-00047,Inspection,Breaker replaced,68,2061.87,Team A
+MT-00856,2025-08-15 22:30:00,8,EQ-00208,Corrective Maintenance,Breaker replaced,218,1145.15,Team C
+MT-00857,2025-12-04 12:00:00,17,EQ-00447,Inspection,Cable inspection completed,166,703.47,Team D
+MT-00858,2025-07-25 14:15:00,20,EQ-00536,Inspection,Firmware updated,261,1652.45,Team D
+MT-00859,2025-02-20 00:45:00,13,EQ-00344,Preventive Maintenance,Transformer cooling checked,353,249.14,Team B
+MT-00860,2025-04-22 13:45:00,20,EQ-00515,Corrective Maintenance,Cable inspection completed,178,731.79,Team A
+MT-00861,2025-12-03 07:15:00,17,EQ-00442,Cleaning,Loose connection repaired,275,2313.64,Team A
+MT-00862,2025-05-15 04:45:00,3,EQ-00079,Corrective Maintenance,Breaker replaced,128,1813.95,Team D
+MT-00863,2025-03-26 03:30:00,7,EQ-00175,Preventive Maintenance,Sensor recalibrated,342,1565.63,Team D
+MT-00864,2025-09-28 15:45:00,17,EQ-00442,Component Replacement,Cable inspection completed,242,2165.02,Team C
+MT-00865,2025-06-15 23:45:00,7,EQ-00173,Cleaning,Loose connection repaired,36,1032.64,Team D
+MT-00866,2025-06-17 21:30:00,2,EQ-00028,Preventive Maintenance,Panel cleaning completed,142,773.3,Team A
+MT-00867,2025-08-13 19:00:00,2,EQ-00037,Corrective Maintenance,Panel cleaning completed,177,465.99,Team D
+MT-00868,2025-03-03 09:00:00,12,EQ-00320,Corrective Maintenance,Firmware updated,34,71.71,Team D
+MT-00869,2025-09-09 04:30:00,6,EQ-00144,Preventive Maintenance,Panel cleaning completed,343,2178.68,Team A
+MT-00870,2025-01-11 20:30:00,3,EQ-00074,Corrective Maintenance,Breaker replaced,95,866.05,Team D
+MT-00871,2025-09-21 01:00:00,19,EQ-00505,Component Replacement,Cable inspection completed,312,940.21,Team D
+MT-00872,2025-02-01 05:45:00,2,EQ-00052,Cleaning,Transformer cooling checked,330,1525.02,Team B
+MT-00873,2025-06-24 11:45:00,15,EQ-00382,Preventive Maintenance,Breaker replaced,264,1795.94,Team B
+MT-00874,2025-09-12 01:30:00,5,EQ-00118,Preventive Maintenance,Cable inspection completed,170,1499.55,Team C
+MT-00875,2025-09-06 14:45:00,15,EQ-00390,Cleaning,Firmware updated,295,1005.35,Team C
+MT-00876,2025-07-03 03:45:00,1,EQ-00014,Component Replacement,Cable inspection completed,277,374.83,Team B
+MT-00877,2025-02-22 14:45:00,8,EQ-00211,Preventive Maintenance,Loose connection repaired,69,620.51,Team A
+MT-00878,2025-03-05 12:45:00,17,EQ-00445,Cleaning,Inverter reset performed,223,1951.73,Team D
+MT-00879,2025-09-12 18:15:00,8,EQ-00196,Cleaning,Inverter reset performed,188,514.29,Team C
+MT-00880,2025-01-02 18:00:00,3,EQ-00077,Component Replacement,Cable inspection completed,120,1459.01,Team C
+MT-00881,2025-12-22 19:45:00,16,EQ-00412,Inspection,Panel cleaning completed,354,1190.13,Team A
+MT-00882,2025-10-08 14:30:00,10,EQ-00261,Preventive Maintenance,Transformer cooling checked,220,2420.51,Team D
+MT-00883,2025-09-16 12:00:00,17,EQ-00433,Preventive Maintenance,Breaker replaced,205,1873.84,Team D
+MT-00884,2025-01-20 12:45:00,1,EQ-00021,Corrective Maintenance,Panel cleaning completed,80,50.21,Team A
+MT-00885,2025-06-11 02:45:00,4,EQ-00099,Preventive Maintenance,Panel cleaning completed,254,527.65,Team B
+MT-00886,2025-05-01 07:30:00,2,EQ-00036,Component Replacement,Sensor recalibrated,73,1822.86,Team D
+MT-00887,2025-01-10 10:30:00,10,EQ-00250,Inspection,Breaker replaced,40,775.38,Team A
+MT-00888,2025-06-27 09:30:00,16,EQ-00414,Inspection,Cable inspection completed,70,1496.07,Team D
+MT-00889,2025-11-06 14:45:00,20,EQ-00516,Corrective Maintenance,Transformer cooling checked,322,2138.62,Team D
+MT-00890,2025-11-02 20:00:00,19,EQ-00498,Corrective Maintenance,Transformer cooling checked,245,1706.67,Team C
+MT-00891,2025-03-14 15:00:00,4,EQ-00082,Cleaning,Cable inspection completed,32,312.71,Team D
+MT-00892,2025-12-09 02:15:00,5,EQ-00109,Cleaning,Transformer cooling checked,87,1538.9,Team B
+MT-00893,2025-05-14 19:00:00,20,EQ-00520,Corrective Maintenance,Inverter reset performed,348,409.47,Team A
+MT-00894,2025-02-24 04:30:00,20,EQ-00526,Preventive Maintenance,Transformer cooling checked,288,145.79,Team C
+MT-00895,2025-08-14 23:15:00,15,EQ-00405,Corrective Maintenance,Inverter reset performed,204,1087.51,Team B
+MT-00896,2025-01-17 06:30:00,12,EQ-00304,Component Replacement,Sensor recalibrated,57,2371.31,Team A
+MT-00897,2025-02-18 23:45:00,11,EQ-00272,Corrective Maintenance,Breaker replaced,28,725.5,Team A
+MT-00898,2025-08-22 10:45:00,1,EQ-00010,Inspection,Breaker replaced,90,750.88,Team D
+MT-00899,2025-10-11 13:00:00,15,EQ-00379,Inspection,Firmware updated,55,1981.74,Team B
+MT-00900,2025-12-27 15:30:00,9,EQ-00225,Inspection,Breaker replaced,224,680.09,Team C
+MT-00901,2025-05-04 05:30:00,19,EQ-00511,Cleaning,Panel cleaning completed,44,1006.56,Team A
+MT-00902,2025-03-29 18:30:00,6,EQ-00147,Preventive Maintenance,Sensor recalibrated,120,977.31,Team B
+MT-00903,2025-03-05 00:45:00,5,EQ-00126,Cleaning,Transformer cooling checked,182,1130.67,Team B
+MT-00904,2025-07-04 01:15:00,19,EQ-00510,Preventive Maintenance,Cable inspection completed,147,2368.81,Team A
+MT-00905,2025-06-07 11:15:00,11,EQ-00275,Inspection,Loose connection repaired,228,1303.14,Team A
+MT-00906,2025-02-02 13:30:00,11,EQ-00287,Component Replacement,Loose connection repaired,234,2413.3,Team D
+MT-00907,2025-06-13 21:15:00,3,EQ-00072,Cleaning,Firmware updated,86,1452.13,Team C
+MT-00908,2025-11-18 17:30:00,10,EQ-00245,Corrective Maintenance,Sensor recalibrated,25,1840.86,Team C
+MT-00909,2025-04-29 13:15:00,3,EQ-00064,Corrective Maintenance,Inverter reset performed,172,1956.03,Team D
+MT-00910,2025-08-11 02:30:00,2,EQ-00029,Inspection,Firmware updated,73,1461.09,Team B
+MT-00911,2025-02-21 14:45:00,12,EQ-00318,Preventive Maintenance,Transformer cooling checked,280,2005.9,Team B
+MT-00912,2025-12-18 03:30:00,4,EQ-00100,Preventive Maintenance,Loose connection repaired,69,1713.03,Team A
+MT-00913,2025-11-14 23:45:00,18,EQ-00480,Component Replacement,Inverter reset performed,334,1980.18,Team A
+MT-00914,2025-09-13 20:00:00,1,EQ-00016,Inspection,Transformer cooling checked,18,625.55,Team B
+MT-00915,2025-12-25 08:45:00,4,EQ-00099,Component Replacement,Transformer cooling checked,190,233.51,Team A
+MT-00916,2025-06-05 14:15:00,18,EQ-00483,Cleaning,Cable inspection completed,327,1844.28,Team B
+MT-00917,2025-11-20 15:00:00,11,EQ-00296,Component Replacement,Inverter reset performed,139,905.72,Team D
+MT-00918,2025-09-11 14:45:00,15,EQ-00404,Cleaning,Loose connection repaired,233,470.82,Team D
+MT-00919,2025-07-19 21:00:00,9,EQ-00233,Preventive Maintenance,Panel cleaning completed,157,175.08,Team C
+MT-00920,2025-07-03 17:15:00,18,EQ-00476,Corrective Maintenance,Transformer cooling checked,340,2455.02,Team D
+MT-00921,2025-11-10 22:45:00,9,EQ-00236,Preventive Maintenance,Firmware updated,80,1503.92,Team C
+MT-00922,2025-05-06 14:00:00,6,EQ-00156,Inspection,Loose connection repaired,265,1875.63,Team C
+MT-00923,2025-02-15 05:45:00,20,EQ-00527,Component Replacement,Cable inspection completed,277,2447.07,Team D
+MT-00924,2025-03-11 18:45:00,4,EQ-00103,Component Replacement,Panel cleaning completed,291,142.14,Team B
+MT-00925,2025-02-17 13:45:00,1,EQ-00015,Inspection,Panel cleaning completed,21,1210.37,Team D
+MT-00926,2025-10-15 09:00:00,4,EQ-00083,Cleaning,Loose connection repaired,31,955.48,Team A
+MT-00927,2025-10-22 21:15:00,15,EQ-00391,Inspection,Loose connection repaired,278,361.0,Team D
+MT-00928,2025-12-28 08:30:00,20,EQ-00532,Corrective Maintenance,Panel cleaning completed,193,1326.13,Team C
+MT-00929,2025-04-14 12:15:00,19,EQ-00510,Corrective Maintenance,Loose connection repaired,335,1412.4,Team C
+MT-00930,2025-09-18 20:30:00,5,EQ-00129,Component Replacement,Panel cleaning completed,315,847.23,Team A
+MT-00931,2025-04-09 12:15:00,3,EQ-00075,Component Replacement,Panel cleaning completed,99,658.08,Team B
+MT-00932,2025-01-29 16:15:00,18,EQ-00476,Preventive Maintenance,Transformer cooling checked,156,548.23,Team A
+MT-00933,2025-12-05 15:30:00,20,EQ-00515,Preventive Maintenance,Cable inspection completed,241,1148.42,Team B
+MT-00934,2025-02-04 18:30:00,2,EQ-00039,Corrective Maintenance,Inverter reset performed,192,1573.5,Team A
+MT-00935,2025-04-23 13:45:00,2,EQ-00048,Inspection,Panel cleaning completed,178,873.43,Team A
+MT-00936,2025-12-06 06:15:00,1,EQ-00002,Preventive Maintenance,Breaker replaced,288,1353.92,Team B
+MT-00937,2025-02-07 15:45:00,2,EQ-00037,Preventive Maintenance,Transformer cooling checked,143,1301.01,Team D
+MT-00938,2025-04-25 12:30:00,11,EQ-00297,Component Replacement,Firmware updated,123,610.49,Team B
+MT-00939,2025-08-12 16:00:00,14,EQ-00356,Corrective Maintenance,Loose connection repaired,85,2086.66,Team A
+MT-00940,2025-06-26 20:45:00,17,EQ-00446,Component Replacement,Cable inspection completed,343,776.01,Team D
+MT-00941,2025-02-26 22:15:00,15,EQ-00385,Component Replacement,Breaker replaced,29,2100.6,Team C
+MT-00942,2025-05-14 07:00:00,8,EQ-00190,Corrective Maintenance,Transformer cooling checked,298,1109.68,Team A
+MT-00943,2025-12-18 09:30:00,11,EQ-00294,Inspection,Transformer cooling checked,194,2012.51,Team B
+MT-00944,2025-06-03 20:00:00,10,EQ-00257,Component Replacement,Breaker replaced,123,645.17,Team D
+MT-00945,2025-03-10 22:45:00,11,EQ-00284,Inspection,Firmware updated,138,469.02,Team A
+MT-00946,2025-06-24 09:15:00,11,EQ-00296,Preventive Maintenance,Inverter reset performed,328,957.98,Team B
+MT-00947,2025-10-09 12:00:00,18,EQ-00466,Inspection,Firmware updated,157,2337.47,Team C
+MT-00948,2025-09-06 22:15:00,8,EQ-00207,Component Replacement,Firmware updated,238,1200.0,Team A
+MT-00949,2025-07-01 07:30:00,6,EQ-00136,Cleaning,Breaker replaced,351,631.66,Team B
+MT-00950,2025-10-20 05:45:00,1,EQ-00009,Inspection,Breaker replaced,93,166.0,Team C
+MT-00951,2025-03-12 07:30:00,9,EQ-00234,Corrective Maintenance,Sensor recalibrated,111,1100.67,Team C
+MT-00952,2025-11-01 13:15:00,9,EQ-00231,Cleaning,Inverter reset performed,55,616.25,Team A
+MT-00953,2025-06-20 23:15:00,14,EQ-00377,Corrective Maintenance,Breaker replaced,292,464.64,Team B
+MT-00954,2025-05-03 10:30:00,1,EQ-00022,Corrective Maintenance,Firmware updated,81,945.77,Team D
+MT-00955,2025-04-13 12:45:00,10,EQ-00264,Component Replacement,Breaker replaced,98,1583.67,Team D
+MT-00956,2025-08-12 01:30:00,12,EQ-00319,Preventive Maintenance,Transformer cooling checked,278,1400.44,Team A
+MT-00957,2025-05-05 08:00:00,20,EQ-00517,Inspection,Loose connection repaired,281,1420.08,Team B
+MT-00958,2025-02-07 01:45:00,1,EQ-00021,Corrective Maintenance,Inverter reset performed,170,1866.6,Team B
+MT-00959,2025-10-28 12:45:00,4,EQ-00097,Component Replacement,Inverter reset performed,69,1590.18,Team B
+MT-00960,2025-11-06 15:45:00,6,EQ-00144,Corrective Maintenance,Panel cleaning completed,145,884.7,Team D
+MT-00961,2025-09-25 04:45:00,13,EQ-00325,Preventive Maintenance,Firmware updated,317,1462.76,Team B
+MT-00962,2025-05-01 16:45:00,7,EQ-00168,Component Replacement,Inverter reset performed,52,1081.06,Team C
+MT-00963,2025-05-11 16:15:00,2,EQ-00030,Component Replacement,Breaker replaced,314,135.43,Team C
+MT-00964,2025-08-23 05:15:00,2,EQ-00048,Preventive Maintenance,Sensor recalibrated,83,1368.3,Team B
+MT-00965,2025-06-10 12:15:00,19,EQ-00495,Corrective Maintenance,Breaker replaced,290,2116.71,Team A
+MT-00966,2025-06-02 13:45:00,9,EQ-00222,Cleaning,Transformer cooling checked,245,489.81,Team A
+MT-00967,2025-11-18 21:30:00,3,EQ-00055,Component Replacement,Transformer cooling checked,46,1573.44,Team A
+MT-00968,2025-01-03 23:15:00,15,EQ-00387,Inspection,Panel cleaning completed,166,100.82,Team A
+MT-00969,2025-02-18 06:00:00,14,EQ-00369,Corrective Maintenance,Panel cleaning completed,24,1060.07,Team A
+MT-00970,2025-10-27 21:30:00,4,EQ-00100,Corrective Maintenance,Loose connection repaired,21,738.5,Team C
+MT-00971,2025-04-16 22:30:00,10,EQ-00245,Corrective Maintenance,Panel cleaning completed,327,381.69,Team A
+MT-00972,2025-04-08 07:30:00,12,EQ-00323,Cleaning,Panel cleaning completed,17,1901.92,Team B
+MT-00973,2025-03-18 00:45:00,20,EQ-00520,Inspection,Loose connection repaired,344,970.93,Team A
+MT-00974,2025-10-03 23:30:00,20,EQ-00532,Cleaning,Inverter reset performed,148,1086.06,Team C
+MT-00975,2025-08-22 04:45:00,15,EQ-00405,Preventive Maintenance,Inverter reset performed,227,258.47,Team C
+MT-00976,2025-03-17 19:30:00,8,EQ-00210,Inspection,Panel cleaning completed,281,1899.61,Team A
+MT-00977,2025-06-02 15:00:00,3,EQ-00076,Component Replacement,Sensor recalibrated,142,1174.57,Team D
+MT-00978,2025-08-06 12:45:00,19,EQ-00493,Preventive Maintenance,Sensor recalibrated,139,463.94,Team C
+MT-00979,2025-02-12 01:00:00,10,EQ-00266,Component Replacement,Loose connection repaired,182,806.07,Team B
+MT-00980,2025-12-05 17:00:00,16,EQ-00427,Preventive Maintenance,Transformer cooling checked,283,1982.15,Team A
+MT-00981,2025-04-25 16:15:00,5,EQ-00119,Preventive Maintenance,Sensor recalibrated,29,156.17,Team C
+MT-00982,2025-09-29 01:30:00,16,EQ-00413,Inspection,Panel cleaning completed,155,976.65,Team B
+MT-00983,2025-12-30 00:15:00,7,EQ-00172,Inspection,Panel cleaning completed,123,1195.72,Team D
+MT-00984,2025-06-28 04:00:00,8,EQ-00198,Component Replacement,Transformer cooling checked,301,1821.18,Team D
+MT-00985,2025-03-01 15:30:00,6,EQ-00156,Component Replacement,Panel cleaning completed,319,518.82,Team A
+MT-00986,2025-12-20 02:15:00,20,EQ-00537,Preventive Maintenance,Breaker replaced,187,711.11,Team D
+MT-00987,2025-09-17 15:00:00,8,EQ-00215,Component Replacement,Firmware updated,163,1842.82,Team B
+MT-00988,2025-01-13 04:15:00,3,EQ-00068,Cleaning,Loose connection repaired,26,1654.18,Team C
+MT-00989,2025-04-25 08:30:00,7,EQ-00173,Cleaning,Sensor recalibrated,322,728.47,Team C
+MT-00990,2025-04-23 21:15:00,6,EQ-00151,Component Replacement,Inverter reset performed,261,2392.68,Team A
+MT-00991,2025-02-07 17:15:00,6,EQ-00160,Preventive Maintenance,Loose connection repaired,212,1892.48,Team C
+MT-00992,2025-05-21 04:15:00,8,EQ-00200,Component Replacement,Cable inspection completed,164,1751.67,Team B
+MT-00993,2025-12-02 17:30:00,3,EQ-00069,Cleaning,Inverter reset performed,58,925.9,Team B
+MT-00994,2025-08-01 19:15:00,3,EQ-00063,Inspection,Breaker replaced,338,1980.38,Team C
+MT-00995,2025-10-05 15:15:00,15,EQ-00404,Inspection,Loose connection repaired,285,1960.46,Team D
+MT-00996,2025-07-28 21:15:00,17,EQ-00452,Preventive Maintenance,Inverter reset performed,106,2464.95,Team D
+MT-00997,2025-08-05 16:45:00,20,EQ-00537,Preventive Maintenance,Panel cleaning completed,233,2464.38,Team B
+MT-00998,2025-12-17 04:30:00,9,EQ-00242,Preventive Maintenance,Transformer cooling checked,320,1650.63,Team D
+MT-00999,2025-08-17 23:30:00,3,EQ-00077,Inspection,Transformer cooling checked,328,2433.13,Team A
+MT-01000,2025-09-11 19:00:00,2,EQ-00038,Inspection,Panel cleaning completed,139,1351.43,Team C
+MT-01001,2025-08-27 15:45:00,16,EQ-00413,Corrective Maintenance,Panel cleaning completed,202,1036.7,Team D
+MT-01002,2025-02-22 22:30:00,12,EQ-00302,Corrective Maintenance,Firmware updated,256,1800.68,Team D
+MT-01003,2025-09-06 18:30:00,10,EQ-00266,Component Replacement,Cable inspection completed,223,1099.1,Team A
+MT-01004,2025-11-02 09:45:00,19,EQ-00500,Cleaning,Transformer cooling checked,244,637.48,Team B
+MT-01005,2025-10-06 03:45:00,20,EQ-00520,Corrective Maintenance,Cable inspection completed,106,702.56,Team D
+MT-01006,2025-01-05 15:30:00,20,EQ-00532,Component Replacement,Inverter reset performed,59,1330.33,Team B
+MT-01007,2025-06-03 15:30:00,9,EQ-00231,Component Replacement,Firmware updated,351,484.81,Team B
+MT-01008,2025-03-02 04:30:00,14,EQ-00369,Inspection,Inverter reset performed,358,424.27,Team A
+MT-01009,2025-06-28 12:15:00,10,EQ-00261,Corrective Maintenance,Transformer cooling checked,99,558.77,Team B
+MT-01010,2025-10-05 06:30:00,8,EQ-00194,Preventive Maintenance,Panel cleaning completed,161,128.59,Team C
+MT-01011,2025-09-10 07:45:00,14,EQ-00359,Component Replacement,Loose connection repaired,116,620.68,Team B
+MT-01012,2025-08-17 02:45:00,12,EQ-00302,Inspection,Transformer cooling checked,100,468.94,Team C
+MT-01013,2025-08-11 01:15:00,16,EQ-00407,Preventive Maintenance,Firmware updated,195,1046.89,Team B
+MT-01014,2025-02-16 23:15:00,6,EQ-00148,Inspection,Sensor recalibrated,202,2108.34,Team D
+MT-01015,2025-09-06 16:15:00,8,EQ-00196,Corrective Maintenance,Firmware updated,277,2386.16,Team C
+MT-01016,2025-01-06 02:45:00,9,EQ-00236,Cleaning,Inverter reset performed,308,2153.71,Team B
+MT-01017,2025-02-27 06:00:00,7,EQ-00169,Cleaning,Sensor recalibrated,51,152.15,Team A
+MT-01018,2025-08-31 22:15:00,12,EQ-00309,Component Replacement,Inverter reset performed,324,1483.9,Team B
+MT-01019,2025-06-29 10:15:00,7,EQ-00166,Component Replacement,Firmware updated,196,1420.22,Team C
+MT-01020,2025-10-31 14:00:00,11,EQ-00285,Component Replacement,Firmware updated,102,2015.7,Team C
+MT-01021,2025-12-30 08:15:00,3,EQ-00074,Inspection,Panel cleaning completed,340,569.25,Team D
+MT-01022,2025-04-19 01:15:00,5,EQ-00125,Inspection,Breaker replaced,91,2367.12,Team B
+MT-01023,2025-01-16 18:15:00,5,EQ-00128,Corrective Maintenance,Panel cleaning completed,268,773.03,Team A
+MT-01024,2025-04-04 19:45:00,7,EQ-00186,Component Replacement,Cable inspection completed,188,1626.9,Team B
+MT-01025,2025-12-16 22:00:00,9,EQ-00230,Component Replacement,Cable inspection completed,357,2376.28,Team A
+MT-01026,2025-02-11 02:15:00,8,EQ-00210,Cleaning,Transformer cooling checked,27,1899.66,Team B
+MT-01027,2025-01-17 14:45:00,18,EQ-00463,Cleaning,Loose connection repaired,326,1943.46,Team D
+MT-01028,2025-09-12 17:00:00,11,EQ-00283,Corrective Maintenance,Sensor recalibrated,294,1225.38,Team B
+MT-01029,2025-09-05 19:00:00,19,EQ-00489,Component Replacement,Sensor recalibrated,171,972.72,Team B
+MT-01030,2025-12-26 13:00:00,18,EQ-00479,Preventive Maintenance,Loose connection repaired,137,304.64,Team B
+MT-01031,2025-04-14 03:15:00,15,EQ-00382,Corrective Maintenance,Panel cleaning completed,53,1973.04,Team C
+MT-01032,2025-12-01 18:15:00,18,EQ-00468,Preventive Maintenance,Firmware updated,218,663.92,Team A
+MT-01033,2025-10-19 00:30:00,3,EQ-00057,Component Replacement,Inverter reset performed,102,1835.53,Team A
+MT-01034,2025-04-26 23:00:00,16,EQ-00424,Cleaning,Transformer cooling checked,137,1253.62,Team A
+MT-01035,2025-11-17 18:15:00,9,EQ-00220,Inspection,Firmware updated,331,323.17,Team C
+MT-01036,2025-09-20 09:45:00,18,EQ-00460,Inspection,Cable inspection completed,61,205.11,Team A
+MT-01037,2025-03-06 16:15:00,14,EQ-00356,Corrective Maintenance,Loose connection repaired,171,545.6,Team B
+MT-01038,2025-08-19 13:45:00,12,EQ-00300,Inspection,Transformer cooling checked,158,2060.99,Team A
+MT-01039,2025-08-23 06:00:00,6,EQ-00145,Preventive Maintenance,Loose connection repaired,335,1487.29,Team A
+MT-01040,2025-09-22 05:00:00,2,EQ-00040,Component Replacement,Loose connection repaired,288,2048.28,Team A
+MT-01041,2025-12-04 06:15:00,17,EQ-00456,Corrective Maintenance,Inverter reset performed,303,1714.86,Team A
+MT-01042,2025-12-06 22:00:00,17,EQ-00450,Inspection,Breaker replaced,112,112.3,Team D
+MT-01043,2025-01-27 07:00:00,10,EQ-00270,Corrective Maintenance,Transformer cooling checked,149,781.13,Team D
+MT-01044,2025-03-09 07:00:00,13,EQ-00349,Cleaning,Transformer cooling checked,220,299.16,Team C
+MT-01045,2025-06-22 06:00:00,14,EQ-00362,Inspection,Sensor recalibrated,182,2201.36,Team C
+MT-01046,2025-11-19 04:15:00,5,EQ-00110,Inspection,Loose connection repaired,169,484.47,Team B
+MT-01047,2025-01-02 19:30:00,10,EQ-00254,Corrective Maintenance,Inverter reset performed,241,2372.58,Team B
+MT-01048,2025-02-01 14:45:00,8,EQ-00202,Corrective Maintenance,Panel cleaning completed,230,1453.21,Team A
+MT-01049,2025-08-11 13:00:00,1,EQ-00002,Cleaning,Panel cleaning completed,220,647.31,Team D
+MT-01050,2025-07-04 07:30:00,15,EQ-00381,Component Replacement,Breaker replaced,305,1194.09,Team B
+MT-01051,2025-10-14 01:00:00,2,EQ-00054,Inspection,Firmware updated,185,526.01,Team B
+MT-01052,2025-04-08 05:00:00,14,EQ-00369,Component Replacement,Loose connection repaired,48,584.3,Team C
+MT-01053,2025-09-15 10:45:00,20,EQ-00517,Inspection,Cable inspection completed,168,613.49,Team C
+MT-01054,2025-06-26 13:45:00,1,EQ-00014,Inspection,Cable inspection completed,223,544.89,Team B
+MT-01055,2025-10-13 06:45:00,11,EQ-00272,Component Replacement,Firmware updated,73,2155.76,Team B
+MT-01056,2025-04-25 10:15:00,3,EQ-00071,Cleaning,Cable inspection completed,121,1539.1,Team C
+MT-01057,2025-05-04 12:15:00,18,EQ-00463,Preventive Maintenance,Sensor recalibrated,280,881.61,Team D
+MT-01058,2025-01-05 05:15:00,10,EQ-00247,Cleaning,Transformer cooling checked,119,619.22,Team C
+MT-01059,2025-03-14 01:45:00,8,EQ-00209,Component Replacement,Cable inspection completed,216,156.0,Team B
+MT-01060,2025-03-29 07:30:00,2,EQ-00044,Cleaning,Breaker replaced,186,1515.14,Team D
+MT-01061,2025-06-23 15:15:00,19,EQ-00491,Preventive Maintenance,Breaker replaced,231,124.79,Team B
+MT-01062,2025-01-23 15:30:00,1,EQ-00007,Component Replacement,Cable inspection completed,337,1961.88,Team B
+MT-01063,2025-12-29 15:45:00,15,EQ-00380,Component Replacement,Firmware updated,231,177.63,Team A
+MT-01064,2025-07-11 09:15:00,7,EQ-00189,Cleaning,Panel cleaning completed,119,1770.91,Team A
+MT-01065,2025-07-26 07:45:00,5,EQ-00110,Corrective Maintenance,Firmware updated,289,1482.73,Team D
+MT-01066,2025-11-21 00:30:00,15,EQ-00400,Corrective Maintenance,Loose connection repaired,167,325.75,Team C
+MT-01067,2025-08-10 22:45:00,12,EQ-00298,Preventive Maintenance,Transformer cooling checked,327,522.05,Team A
+MT-01068,2025-10-06 01:15:00,8,EQ-00192,Preventive Maintenance,Loose connection repaired,27,906.67,Team C
+MT-01069,2025-06-12 23:15:00,8,EQ-00197,Inspection,Transformer cooling checked,305,2188.83,Team A
+MT-01070,2025-11-15 11:30:00,7,EQ-00170,Corrective Maintenance,Firmware updated,148,225.07,Team A
+MT-01071,2025-01-26 03:45:00,11,EQ-00275,Preventive Maintenance,Breaker replaced,162,2383.34,Team B
+MT-01072,2025-08-01 03:15:00,17,EQ-00435,Corrective Maintenance,Breaker replaced,167,1622.37,Team B
+MT-01073,2025-02-01 21:00:00,4,EQ-00101,Inspection,Loose connection repaired,273,309.97,Team C
+MT-01074,2025-11-26 03:15:00,10,EQ-00251,Corrective Maintenance,Inverter reset performed,112,576.82,Team C
+MT-01075,2025-04-06 02:30:00,19,EQ-00509,Inspection,Inverter reset performed,348,2098.92,Team D
+MT-01076,2025-03-01 05:30:00,7,EQ-00168,Corrective Maintenance,Firmware updated,225,416.31,Team C
+MT-01077,2025-12-15 22:15:00,5,EQ-00135,Inspection,Sensor recalibrated,186,1221.82,Team D
+MT-01078,2025-07-27 21:30:00,19,EQ-00489,Corrective Maintenance,Transformer cooling checked,22,1285.32,Team C
+MT-01079,2025-07-26 08:15:00,19,EQ-00503,Cleaning,Breaker replaced,275,930.94,Team C
+MT-01080,2025-10-05 12:45:00,8,EQ-00201,Corrective Maintenance,Cable inspection completed,48,917.1,Team A
+MT-01081,2025-07-20 12:15:00,15,EQ-00393,Inspection,Cable inspection completed,216,1672.18,Team A
+MT-01082,2025-02-26 23:30:00,17,EQ-00448,Inspection,Inverter reset performed,328,934.39,Team A
+MT-01083,2025-04-06 23:15:00,19,EQ-00497,Preventive Maintenance,Inverter reset performed,272,1476.87,Team C
+MT-01084,2025-03-17 07:15:00,18,EQ-00473,Preventive Maintenance,Loose connection repaired,64,2261.85,Team C
+MT-01085,2025-06-09 03:30:00,18,EQ-00474,Inspection,Inverter reset performed,203,762.16,Team D
+MT-01086,2025-12-01 12:30:00,15,EQ-00381,Preventive Maintenance,Cable inspection completed,348,2325.39,Team B
+MT-01087,2025-11-06 22:45:00,18,EQ-00465,Corrective Maintenance,Transformer cooling checked,357,2039.78,Team C
+MT-01088,2025-09-04 17:15:00,1,EQ-00022,Cleaning,Cable inspection completed,204,881.27,Team B
+MT-01089,2025-03-03 20:30:00,5,EQ-00113,Preventive Maintenance,Loose connection repaired,225,2311.49,Team A
+MT-01090,2025-01-15 02:30:00,11,EQ-00272,Inspection,Inverter reset performed,355,2272.89,Team A
+MT-01091,2025-03-16 16:30:00,2,EQ-00051,Component Replacement,Panel cleaning completed,133,1456.69,Team C
+MT-01092,2025-01-12 21:00:00,16,EQ-00426,Preventive Maintenance,Cable inspection completed,126,230.78,Team B
+MT-01093,2025-10-11 11:00:00,12,EQ-00298,Corrective Maintenance,Panel cleaning completed,149,1213.36,Team A
+MT-01094,2025-02-10 11:30:00,12,EQ-00303,Preventive Maintenance,Loose connection repaired,262,502.89,Team C
+MT-01095,2025-01-05 03:30:00,2,EQ-00052,Inspection,Sensor recalibrated,89,1703.42,Team B
+MT-01096,2025-05-01 11:00:00,11,EQ-00280,Inspection,Transformer cooling checked,163,925.34,Team C
+MT-01097,2025-08-19 07:00:00,10,EQ-00262,Corrective Maintenance,Sensor recalibrated,60,1083.5,Team B
+MT-01098,2025-09-02 01:30:00,4,EQ-00108,Cleaning,Cable inspection completed,341,1409.98,Team B
+MT-01099,2025-09-29 19:15:00,8,EQ-00216,Inspection,Panel cleaning completed,17,1316.36,Team C
+MT-01100,2025-06-02 13:45:00,17,EQ-00434,Inspection,Transformer cooling checked,349,1049.12,Team B
+MT-01101,2025-10-19 13:30:00,13,EQ-00330,Component Replacement,Breaker replaced,32,1479.94,Team C
+MT-01102,2025-01-21 20:30:00,12,EQ-00300,Preventive Maintenance,Cable inspection completed,79,545.01,Team C
+MT-01103,2025-03-18 18:45:00,15,EQ-00382,Cleaning,Sensor recalibrated,230,2327.84,Team D
+MT-01104,2025-04-06 00:15:00,4,EQ-00099,Preventive Maintenance,Sensor recalibrated,157,563.43,Team B
+MT-01105,2025-03-23 17:00:00,9,EQ-00224,Corrective Maintenance,Sensor recalibrated,281,335.08,Team D
+MT-01106,2025-11-27 05:45:00,1,EQ-00023,Component Replacement,Firmware updated,329,2244.09,Team D
+MT-01107,2025-04-24 18:45:00,11,EQ-00288,Corrective Maintenance,Inverter reset performed,206,2380.61,Team C
+MT-01108,2025-10-17 09:00:00,15,EQ-00388,Component Replacement,Transformer cooling checked,225,2294.28,Team D
+MT-01109,2025-01-09 13:15:00,19,EQ-00487,Inspection,Panel cleaning completed,128,1702.98,Team B
+MT-01110,2025-12-26 02:00:00,18,EQ-00467,Inspection,Transformer cooling checked,61,504.94,Team A
+MT-01111,2025-04-15 06:00:00,17,EQ-00440,Preventive Maintenance,Loose connection repaired,281,2035.58,Team D
+MT-01112,2025-08-17 11:45:00,15,EQ-00397,Cleaning,Cable inspection completed,286,753.93,Team A
+MT-01113,2025-05-20 21:45:00,18,EQ-00472,Preventive Maintenance,Cable inspection completed,95,1322.26,Team A
+MT-01114,2025-04-27 14:15:00,4,EQ-00095,Preventive Maintenance,Loose connection repaired,70,2345.06,Team B
+MT-01115,2025-03-05 18:00:00,20,EQ-00532,Component Replacement,Panel cleaning completed,213,2314.06,Team C
+MT-01116,2025-07-10 08:00:00,12,EQ-00304,Preventive Maintenance,Inverter reset performed,305,1624.31,Team A
+MT-01117,2025-05-07 10:15:00,15,EQ-00404,Corrective Maintenance,Breaker replaced,141,1902.79,Team A
+MT-01118,2025-04-08 06:30:00,3,EQ-00055,Component Replacement,Firmware updated,336,1520.22,Team A
+MT-01119,2025-11-09 13:45:00,17,EQ-00452,Cleaning,Cable inspection completed,300,162.21,Team D
+MT-01120,2025-04-21 18:30:00,20,EQ-00529,Inspection,Firmware updated,136,928.28,Team C
+MT-01121,2025-10-15 14:00:00,4,EQ-00101,Preventive Maintenance,Sensor recalibrated,101,1396.62,Team A
+MT-01122,2025-04-10 05:30:00,3,EQ-00071,Cleaning,Loose connection repaired,311,1890.24,Team D
+MT-01123,2025-06-06 23:45:00,6,EQ-00149,Preventive Maintenance,Sensor recalibrated,322,889.4,Team B
+MT-01124,2025-05-14 19:00:00,12,EQ-00324,Inspection,Transformer cooling checked,138,506.22,Team D
+MT-01125,2025-11-16 23:30:00,20,EQ-00537,Cleaning,Loose connection repaired,176,1576.6,Team A
+MT-01126,2025-07-26 12:00:00,7,EQ-00164,Inspection,Firmware updated,298,2267.4,Team C
+MT-01127,2025-08-27 05:00:00,6,EQ-00153,Preventive Maintenance,Inverter reset performed,339,620.93,Team B
+MT-01128,2025-05-24 04:00:00,17,EQ-00440,Inspection,Sensor recalibrated,59,1840.43,Team C
+MT-01129,2025-07-16 11:45:00,14,EQ-00373,Preventive Maintenance,Breaker replaced,197,160.71,Team C
+MT-01130,2025-11-19 13:00:00,11,EQ-00280,Corrective Maintenance,Firmware updated,259,821.03,Team D
+MT-01131,2025-04-08 10:45:00,17,EQ-00445,Corrective Maintenance,Panel cleaning completed,220,1319.84,Team B
+MT-01132,2025-02-24 17:00:00,20,EQ-00533,Preventive Maintenance,Panel cleaning completed,87,2156.76,Team A
+MT-01133,2025-09-04 02:30:00,3,EQ-00056,Preventive Maintenance,Breaker replaced,234,2080.78,Team C
+MT-01134,2025-08-23 10:30:00,5,EQ-00122,Inspection,Panel cleaning completed,226,1312.31,Team D
+MT-01135,2025-06-05 10:45:00,6,EQ-00150,Preventive Maintenance,Breaker replaced,338,1464.67,Team D
+MT-01136,2025-08-30 13:15:00,1,EQ-00002,Inspection,Panel cleaning completed,346,2456.23,Team C
+MT-01137,2025-09-17 00:45:00,18,EQ-00474,Inspection,Firmware updated,327,665.34,Team B
+MT-01138,2025-11-05 13:30:00,8,EQ-00215,Component Replacement,Firmware updated,62,880.75,Team A
+MT-01139,2025-07-24 08:00:00,6,EQ-00155,Corrective Maintenance,Panel cleaning completed,53,835.92,Team A
+MT-01140,2025-01-14 22:30:00,4,EQ-00089,Component Replacement,Sensor recalibrated,241,885.2,Team A
+MT-01141,2025-06-30 13:30:00,9,EQ-00238,Cleaning,Cable inspection completed,257,804.24,Team C
+MT-01142,2025-07-25 04:45:00,13,EQ-00337,Inspection,Cable inspection completed,100,671.51,Team C
+MT-01143,2025-08-19 00:15:00,15,EQ-00380,Corrective Maintenance,Panel cleaning completed,34,1190.76,Team C
+MT-01144,2025-01-03 15:30:00,15,EQ-00401,Inspection,Loose connection repaired,124,1867.01,Team D
+MT-01145,2025-07-19 09:00:00,8,EQ-00210,Component Replacement,Breaker replaced,332,1647.91,Team A
+MT-01146,2025-04-26 10:15:00,15,EQ-00398,Preventive Maintenance,Inverter reset performed,213,1317.56,Team C
+MT-01147,2025-04-19 06:00:00,15,EQ-00396,Component Replacement,Sensor recalibrated,143,1902.48,Team D
+MT-01148,2025-03-24 13:15:00,19,EQ-00494,Inspection,Sensor recalibrated,163,410.97,Team C
+MT-01149,2025-05-16 05:30:00,16,EQ-00407,Component Replacement,Inverter reset performed,349,1244.89,Team C
+MT-01150,2025-08-20 11:45:00,7,EQ-00176,Inspection,Sensor recalibrated,249,549.67,Team C
+MT-01151,2025-10-04 16:15:00,4,EQ-00085,Component Replacement,Firmware updated,105,943.59,Team C
+MT-01152,2025-07-02 17:45:00,17,EQ-00454,Preventive Maintenance,Inverter reset performed,306,1750.09,Team C
+MT-01153,2025-05-24 05:45:00,18,EQ-00480,Inspection,Panel cleaning completed,253,1336.51,Team C
+MT-01154,2025-08-29 20:30:00,6,EQ-00142,Component Replacement,Firmware updated,118,751.54,Team D
+MT-01155,2025-03-07 05:45:00,4,EQ-00102,Preventive Maintenance,Inverter reset performed,81,2197.58,Team B
+MT-01156,2025-08-22 05:30:00,15,EQ-00396,Component Replacement,Cable inspection completed,241,2458.16,Team A
+MT-01157,2025-01-10 09:30:00,16,EQ-00432,Inspection,Cable inspection completed,248,1084.38,Team D
+MT-01158,2025-02-06 04:30:00,20,EQ-00515,Corrective Maintenance,Panel cleaning completed,245,555.71,Team D
+MT-01159,2025-02-17 12:45:00,8,EQ-00192,Inspection,Loose connection repaired,83,1996.66,Team C
+MT-01160,2025-08-11 22:45:00,4,EQ-00096,Component Replacement,Sensor recalibrated,163,1897.37,Team A
+MT-01161,2025-06-12 07:45:00,19,EQ-00505,Preventive Maintenance,Cable inspection completed,358,2442.76,Team B
+MT-01162,2025-07-11 06:00:00,18,EQ-00463,Component Replacement,Sensor recalibrated,68,1236.29,Team A
+MT-01163,2025-11-30 03:15:00,6,EQ-00143,Preventive Maintenance,Inverter reset performed,260,1011.45,Team D
+MT-01164,2025-01-12 19:30:00,3,EQ-00076,Cleaning,Breaker replaced,209,1528.0,Team B
+MT-01165,2025-01-24 18:15:00,19,EQ-00504,Component Replacement,Breaker replaced,68,995.18,Team D
+MT-01166,2025-04-23 09:45:00,7,EQ-00174,Cleaning,Transformer cooling checked,145,337.88,Team A
+MT-01167,2025-03-02 05:00:00,5,EQ-00132,Component Replacement,Firmware updated,281,1484.58,Team B
+MT-01168,2025-10-11 14:45:00,18,EQ-00472,Cleaning,Loose connection repaired,349,2007.11,Team C
+MT-01169,2025-04-14 22:30:00,6,EQ-00154,Inspection,Sensor recalibrated,68,1859.6,Team D
+MT-01170,2025-12-21 16:45:00,5,EQ-00132,Cleaning,Transformer cooling checked,231,800.56,Team A
+MT-01171,2025-01-05 23:45:00,16,EQ-00408,Preventive Maintenance,Transformer cooling checked,310,1888.23,Team C
+MT-01172,2025-07-09 14:00:00,12,EQ-00300,Component Replacement,Cable inspection completed,30,67.0,Team C
+MT-01173,2025-11-18 11:30:00,20,EQ-00520,Corrective Maintenance,Cable inspection completed,274,288.0,Team B
+MT-01174,2025-03-10 11:00:00,2,EQ-00033,Preventive Maintenance,Firmware updated,217,2037.29,Team B
+MT-01175,2025-08-12 16:30:00,20,EQ-00524,Corrective Maintenance,Inverter reset performed,128,2432.42,Team D
+MT-01176,2025-05-10 03:45:00,7,EQ-00179,Inspection,Loose connection repaired,118,1189.77,Team C
+MT-01177,2025-08-21 17:45:00,4,EQ-00103,Cleaning,Loose connection repaired,228,542.82,Team A
+MT-01178,2025-03-18 23:45:00,10,EQ-00256,Component Replacement,Inverter reset performed,233,1544.19,Team A
+MT-01179,2025-04-14 10:15:00,11,EQ-00273,Component Replacement,Inverter reset performed,183,2292.59,Team D
+MT-01180,2025-04-17 05:00:00,15,EQ-00379,Inspection,Breaker replaced,118,1578.29,Team B
+MT-01181,2025-09-02 14:15:00,19,EQ-00497,Preventive Maintenance,Breaker replaced,302,1576.63,Team C
+MT-01182,2025-09-03 20:15:00,17,EQ-00436,Corrective Maintenance,Firmware updated,352,135.91,Team A
+MT-01183,2025-11-26 01:30:00,18,EQ-00475,Cleaning,Transformer cooling checked,300,2246.84,Team C
+MT-01184,2025-07-16 05:30:00,3,EQ-00067,Inspection,Transformer cooling checked,23,941.28,Team A
+MT-01185,2025-11-28 23:30:00,9,EQ-00220,Preventive Maintenance,Panel cleaning completed,265,2052.87,Team D
+MT-01186,2025-02-14 14:45:00,9,EQ-00234,Inspection,Loose connection repaired,343,1851.16,Team C
+MT-01187,2025-12-28 15:45:00,18,EQ-00474,Inspection,Sensor recalibrated,349,1598.8,Team D
+MT-01188,2025-09-22 18:15:00,14,EQ-00359,Preventive Maintenance,Loose connection repaired,200,234.12,Team D
+MT-01189,2025-06-21 16:00:00,11,EQ-00279,Cleaning,Firmware updated,260,102.21,Team B
+MT-01190,2025-02-11 23:30:00,16,EQ-00411,Inspection,Inverter reset performed,358,1004.28,Team A
+MT-01191,2025-01-18 10:45:00,4,EQ-00087,Cleaning,Panel cleaning completed,336,1626.85,Team D
+MT-01192,2025-12-26 01:45:00,20,EQ-00526,Corrective Maintenance,Transformer cooling checked,290,1219.79,Team B
+MT-01193,2025-11-21 07:45:00,10,EQ-00248,Preventive Maintenance,Breaker replaced,161,526.85,Team A
+MT-01194,2025-12-16 10:45:00,13,EQ-00350,Preventive Maintenance,Transformer cooling checked,20,210.48,Team B
+MT-01195,2025-12-14 20:45:00,19,EQ-00501,Component Replacement,Transformer cooling checked,300,1173.57,Team C
+MT-01196,2025-09-29 20:30:00,12,EQ-00303,Corrective Maintenance,Loose connection repaired,276,643.98,Team A
+MT-01197,2025-06-23 06:45:00,19,EQ-00497,Corrective Maintenance,Cable inspection completed,119,1001.72,Team C
+MT-01198,2025-03-23 09:45:00,3,EQ-00076,Inspection,Breaker replaced,145,631.1,Team D
+MT-01199,2025-10-20 08:45:00,9,EQ-00218,Preventive Maintenance,Firmware updated,271,1828.44,Team D
+MT-01200,2025-08-07 12:45:00,12,EQ-00306,Preventive Maintenance,Sensor recalibrated,215,511.6,Team D
